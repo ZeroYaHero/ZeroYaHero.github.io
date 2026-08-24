@@ -6,6 +6,8 @@ permalink: /experience/
 
 {% include nav.html %}
 
+# Experience
+
 ## Education
 - B.S. in Computer Science from University of Southern Maine
     - x5 Deans List

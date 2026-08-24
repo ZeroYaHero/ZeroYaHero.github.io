@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 title: ZeroYaHero
-description: Games, tools, and design.
+description: Software, tech art, and design portfolio.
 
 # Logo shown at the top of every page. Comment out to hide it.
 header_logo: /assets/brand/T_ZeroFaceLogo.png
@@ -12,7 +12,7 @@ header_logo: /assets/brand/T_ZeroFaceLogo.png
 # position: left, right, center, or a pair like "left top".
 # repeat: no-repeat, repeat, repeat-x, repeat-y.
 background_image: /assets/brand/T_ZeroBackground.png
-background_opacity: 0.08
+background_opacity: 0.05
 background_size: auto 100%
 background_position: left center
 background_repeat: no-repeat

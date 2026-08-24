@@ -20,6 +20,8 @@ Games, tools, and other technically demanding software.
 
 Improved Kelson's VR visualization for ocean waves in Unity. Previously they used sum-of-wave-components for the water surface which was resource demanding and unconvincing. Required an offline wave simulation model and a real-time wave renderer to agree on ocean surface at every point and time. Reverse-engineered a Unity high-performance real-time water rendering package built on FFTs. Applied ocean-engineer-advised modifications. Implemented it as an alternative simulation mode inside Kelson's C++ framework. Created novel solution for computing below surface velocities and accelerations. Resulted in Kelson getting a new gerstner wave simulation model and better looking waves in Unity with stronger performance.
 
+---
+
 ## ZeRayTracer
 
 <img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="300">

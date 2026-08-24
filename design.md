@@ -8,7 +8,7 @@ permalink: /design/
 
 # Design
 
-Logos, branding, and key art.
+Logos and branding.
 
 ---
 
@@ -51,8 +51,6 @@ Logo work for a local art framing company.
   <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait">
   <img class="wide" src="{{ '/assets/brand/T_ZeroBanner.png' | relative_url }}" alt="ZeroYaHero banner">
 </div>
-
-![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
 All ZeroYaHero logos or branding is created by myself in Procreate, Adobe Illustrator, and Blender!
 
