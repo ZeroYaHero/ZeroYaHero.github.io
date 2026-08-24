@@ -7,11 +7,14 @@ header_logo: /assets/brand/T_ZeroFaceLogo.png
 
 # Page background image. Comment out background_image to turn it off.
 # opacity 0 = invisible, 1 = full strength.
-# size: cover fills the window, contain fits it, auto keeps natural size.
+# size: "auto 100%" fills the height, width scales with it.
+#       cover fills both and crops. contain fits the whole image in.
+# position: left, right, center, or a pair like "left top".
 # repeat: no-repeat, repeat, repeat-x, repeat-y.
 background_image: /assets/brand/T_ZeroBackground.png
-background_opacity: 0.5
-background_size: cover
+background_opacity: 0.12
+background_size: auto 100%
+background_position: left center
 background_repeat: no-repeat
 
 # Buttons in the site header. Order is the order shown.

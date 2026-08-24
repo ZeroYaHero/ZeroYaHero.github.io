@@ -18,6 +18,7 @@ May 2026 -- August 2026
 - Reverse-engineered an FFT-based ocean rendering package, made ocean-engineer-advised modifications, and implemented its wave model as a new simulation mode inside an existing C++ simulation framework.
 - Tested with Catch2 and profiled with Google Benchmark.
 - Helped improve their rendering of simulation data inside Unity, optimizing with HLSL (standard surface and compute), GPU instancing, and Burst jobs.
+- Improved Unity framerate in-editor by ~60% for loadcases using the new wave mode.
 
 # UEFN Programmer & Technical Artist Contractor
 May 2023 -- Present
@@ -33,20 +34,23 @@ March 2019 -- June 2022
 
 Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
 
-- **One of the few founders of Zone Wars genre**
-- **Vortex Zone Wars**
-    - Set on the side of a volcano, a competitive PVP gamemode with a fast moving storm to push players closer together. Players are given randomized items to use to their advantage and be the last one standing.
-    - **Featured and contracted by Epic Games to be on the front page of Fortnite in the first Zone Wars Limited Time Mode (LTM)** with three other creators.
-- **Respawn Zone Wars**
-    - PVP gamemode where players would follow a cyclical storm and fight until a player gets 30 eliminations. First zone wars
-- **2X Zone Wars**
-    - A compact gamemode made to simulate the most intense moments of a Fortnite Battle Royale match, all with tournament-style leaderboard scoring.
-    - **Featured by Epic Games as a Matchmaking Portal**
-    - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated) 
 - **250 million plays from 20 million unique player accounts**
+- Highlights:
+    - **Vortex Zone Wars**
+        - Set on the side of a volcano, a competitive PVP gamemode with a fast moving storm to push players closer together. Players are given randomized items to use to their advantage and be the last one standing.
+        - **Featured and contracted by Epic Games to be on the front page of Fortnite in the first Zone Wars Limited Time Mode (LTM)** with three other creators.
+    - **Respawn Zone Wars**
+        - PVP gamemode where players would follow a cyclical storm and fight until a player gets 30 eliminations. First zone wars
+    - **2X Zone Wars**
+        - A compact gamemode made to simulate the most intense moments of a Fortnite Battle Royale match, all with tournament-style leaderboard scoring.
+        - **Featured by Epic Games as a Matchmaking Portal**
+        - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated) 
+- **One of the few founders of Zone Wars genre**
 
 # Functional QA Tester @ Activision Central Tech (Temporary)
 Portland, Maine
+
+June 2022 -- August 2022
 
 - Collaborated with programmers working on the Call of Duty engine and editor.
 - Tested and documented engine hot reload feature strengths and weaknesses for tools programmers.
@@ -54,7 +58,6 @@ Portland, Maine
 - Debugged in C++ with Visual Studio and exercised the engine through the level editor.
 - Filed defects and test reports in JIRA, working under Perforce.
 
-June 2022 -- August 2022
 
 # Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
 Portland, Maine
