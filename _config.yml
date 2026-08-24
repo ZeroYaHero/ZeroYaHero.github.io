@@ -1,11 +1,29 @@
 theme: jekyll-theme-hacker
 title: ZeroYaHero
-description: Games, tools, shaders, and renders.
-show_downloads: false
+description: Games, tools, and design.
 
-email: zeroyaheroofficial@gmail.com
-github_url: https://github.com/ZeroYaHero
-twitter_url: https://x.com/ZeroYaHero
+# Logo shown at the top of every page. Comment out to hide it.
+header_logo: /assets/Supplements/T_ZeroFaceLogo.png
+
+# Buttons in the site header. Order is the order shown.
+# icon must match a {% when %} branch in _includes/icon.html
+header_links:
+  - name: X
+    url: https://x.com/ZeroYaHero
+    icon: x
+  - name: GitHub
+    url: https://github.com/ZeroYaHero
+    icon: github
+  - name: Email
+    url: mailto:zeroyaheroofficial@gmail.com
+    icon: email
+  - name: LinkedIn
+    # TODO replace CHANGE-ME with your real profile URL
+    url: https://www.linkedin.com/in/CHANGE-ME
+    icon: linkedin
+
+plugins:
+  - jekyll-seo-tag
 
 exclude:
   - README.md

@@ -3,7 +3,7 @@
 
 // Amber CRT phosphor. This replaces the lime green (#b5e853) of the theme.
 // Change this one value to recolor the whole site.
-$accent: #ffb000;
+$accent: #ff6200;
 
 // The theme declares $header with !default, so this value wins.
 $header: $accent;
@@ -63,4 +63,91 @@ ul li::marker {
 section img {
   max-width: 100%;
   height: auto;
+}
+
+// Header buttons. The theme styles .btn already, so these rules only swap the
+// background-image icon for an inline SVG and lay the row out.
+
+#header-links {
+  margin-top: 15px;
+}
+
+#header-links .btn {
+  margin: 0 8px 8px 0;
+  vertical-align: top;
+}
+
+#header-links .btn:hover {
+  border-color: rgba($accent, 0.6);
+}
+
+.btn .icon {
+  background: none;
+  opacity: 0.85;
+}
+
+.btn .icon svg {
+  display: block;
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+// Header logo, next to the site title on every page.
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.header-logo img {
+  display: block;
+  width: 90px;
+  height: auto;
+}
+
+.header-text {
+  min-width: 0;
+}
+
+// The theme pulls the title 40px left to outdent the "./ " prefix. That fights
+// the flex row, so cancel it.
+.header-text h1 {
+  margin-left: 0;
+}
+
+@media (max-width: 600px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .header-logo img {
+    width: 64px;
+  }
+}
+
+// Logo galleries on the design page.
+
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  margin: 0 0 20px;
+}
+
+.logo-grid img {
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+}
+
+.logo-grid img.wide {
+  width: 320px;
 }

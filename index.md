@@ -10,16 +10,18 @@ title: ZeroYaHero
 I make games, tools, shaders, and renders. Some of the work here has its own GitHub
 repository. Some of it does not.
 
-- [Projects]({{ '/projects/' | relative_url }}) — games, engines, and tools.
-- [Content]({{ '/content/' | relative_url }}) — shaders, materials, and renders.
+- [Projects]({{ '/projects/' | relative_url }}) — Games, tools, and more technically demanding projects.
+- [Content]({{ '/content/' | relative_url }}) — Shaders, assets, and renders.
+- [Design]({{ '/design/' | relative_url }}) — Logos and branding.
+- [Experience]({{ '/experience/' | relative_url }}) — My experiences.
 
 ## Contact
 
-Sometimes I do a bad job of updating this. Send me an email if you want a guaranteed
-look at my most recent and my best work:
+Interested in doing work? Email me!
 [zeroyaheroofficial@gmail.com](mailto:zeroyaheroofficial@gmail.com)
 
-- [GitHub](https://github.com/ZeroYaHero)
-- [X](https://x.com/ZeroYaHero)
+{% for link in site.header_links %}
+- [{{ link.name }}]({{ link.url }})
+{%- endfor %}
 
-<img src="{{ '/assets/Supplements/T_ZeroFaceLogo.png' | relative_url }}" alt="ZeroYaHero logo" width="200">
+<img src="{{ '/assets/Supplements/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
