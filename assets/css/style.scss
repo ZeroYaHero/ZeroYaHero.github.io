@@ -1,25 +1,66 @@
 ---
 ---
 
+// Amber CRT phosphor. This replaces the lime green (#b5e853) of the theme.
+// Change this one value to recolor the whole site.
+$accent: #ffb000;
+
+// The theme declares $header with !default, so this value wins.
+$header: $accent;
+
 @import "{{ site.theme }}";
+
+// The theme hardcodes #b5e853 in the rules below, so $header does not reach
+// them. Each rule repeats a theme rule and only changes the color.
+
+header {
+  border-bottom: 1px dashed $accent;
+}
+
+header h1 {
+  color: $accent;
+}
+
+header h1,
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba($accent, 0.1),
+               0 0 10px rgba($accent, 0.1);
+}
+
+pre {
+  color: $accent;
+}
+
+th {
+  border-bottom: 1px dashed $accent;
+}
+
+hr {
+  border-bottom: 1px dashed $accent;
+  color: $accent;
+}
+
+// The theme uses a green bullet image. Use a text marker instead.
+ul li {
+  list-style-image: none;
+  list-style-type: square;
+}
+
+ul li::marker {
+  color: $accent;
+}
+
+// Rules of my own.
 
 .site-nav {
   margin-bottom: 2em;
   padding-bottom: 0.6em;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
   font-weight: bold;
 }
 
 section img {
   max-width: 100%;
   height: auto;
-}
-
-.project {
-  margin-bottom: 3em;
-}
-
-.tools img {
-  vertical-align: middle;
-  margin-right: 6px;
 }

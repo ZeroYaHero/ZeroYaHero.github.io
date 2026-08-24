@@ -1,7 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 title: ZeroYaHero
 description: Games, tools, shaders, and renders.
-logo: /assets/Supplements/T_ZeroFaceLogo.png
 show_downloads: false
 
 email: zeroyaheroofficial@gmail.com
