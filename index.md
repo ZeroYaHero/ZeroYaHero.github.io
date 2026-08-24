@@ -17,6 +17,8 @@ high-performance tools and good-looking visuals.
 - [Design]({{ '/design/' | relative_url }}) — Logos and branding.
 - [Experience]({{ '/experience/' | relative_url }}) — My experiences. -->
 
+---
+
 ## Contact
 
 Interested in doing work or chatting? Email me:

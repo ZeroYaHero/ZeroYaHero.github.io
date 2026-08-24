@@ -12,7 +12,7 @@ header_logo: /assets/brand/T_ZeroFaceLogo.png
 # position: left, right, center, or a pair like "left top".
 # repeat: no-repeat, repeat, repeat-x, repeat-y.
 background_image: /assets/brand/T_ZeroBackground.png
-background_opacity: 0.12
+background_opacity: 0.08
 background_size: auto 100%
 background_position: left center
 background_repeat: no-repeat
@@ -30,8 +30,7 @@ header_links:
     url: mailto:zeroyaheroofficial@gmail.com
     icon: email
   - name: LinkedIn
-    # TODO replace CHANGE-ME with your real profile URL
-    url: https://www.linkedin.com/in/CHANGE-ME
+    url: https://www.linkedin.com/in/ellisfitz/
     icon: linkedin
 
 plugins:

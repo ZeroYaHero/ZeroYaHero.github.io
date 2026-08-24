@@ -8,9 +8,17 @@ permalink: /projects/
 
 # Projects
 
-Games, engines, and tools.
+Games, tools, and other technically demanding software.
 
 ---
+
+## Waves @ [Kelson Marine Co.](https://zeroyahero.com/experience)
+
+<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="ZeRayTracer render" width="300">
+
+![cpp](https://skillicons.dev/icons?i=cpp,cmake,cs,python,unity&theme=dark)
+
+Improved Kelson's VR visualization for ocean waves in Unity. Previously they used sum-of-wave-components for the water surface which was resource demanding and unconvincing. Required an offline wave simulation model and a real-time wave renderer to agree on ocean surface at every point and time. Reverse-engineered a Unity high-performance real-time water rendering package built on FFTs. Applied ocean-engineer-advised modifications. Implemented it as an alternative simulation mode inside Kelson's C++ framework. Created novel solution for computing below surface velocities and accelerations. Resulted in Kelson getting a new gerstner wave simulation model and better looking waves in Unity with stronger performance.
 
 ## ZeRayTracer
 
@@ -18,7 +26,7 @@ Games, engines, and tools.
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake&theme=dark)
 
-CPU Ray Tracer coded from scratch in C++ with CMake build system. Contains different
+CPU ray tracer programmed in C++ with CMake. Contains different
 material types, camera effects, and multithreading.
 
 [GitHub](https://github.com/ZeroYaHero/ZeRayTracer)
@@ -33,12 +41,10 @@ material types, camera effects, and multithreading.
 
 ![c](https://skillicons.dev/icons?i=c,cmake&theme=dark)
 
-Retro game clone "engine" written in C. The playfield is encoded into 32 bit integers
+Retro game clone written in C. The playfield is encoded into 32 bit integers
 and the pieces are encoded in 16 bit integers. Bitwise operators rotate the pieces,
-detect collision, and lock the cells. Everything occupies the smallest amount of memory
-necessary, so the current release does not include colors. A renderer can add them.
-The engine is separate from the renderer. It offers a default renderer with Raylib, and
-a terminal version comes later.
+detect collision, and lock the cells. Unique project structure. It offers a default renderer with Raylib, and
+I hope to add others in the future.
 
 [GitHub](https://github.com/ZeroYaHero/Zetris)
 
@@ -51,10 +57,9 @@ a terminal version comes later.
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
 
 GUI that generates Verse code and UEFN devices (UE actor properties) from a set of
-configurations. The tool combines the configurations with a cartesian product. The
-graphics are not great, but I needed something that just works. I created this tool for
+configurations. The tool combines the configurations with a cartesian product. Was a quick project that didn't need to look pretty. I created this tool for
 contract work and I used it there. The source is available, so I do not go into more
-detail.
+detail here.
 
 [GitHub](https://github.com/ZeroYaHero/UEFNClassGenerator)
 
@@ -109,15 +114,15 @@ program depends completely on `mod`. This made performance a challenge.
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
-Mechanic made in Verse and the UE material graph. The visual component lets playersFpr
+Mechanic made in Verse and the UE material graph. The visual component lets players 
 modify their own health. This was a commissioned piece for
-[Raider464's most popular game, which hits a peak CCU of around 10k daily](https://fortnite.gg/island?code=1832-0431-4852).
+[Raider464's most popular game, which hits a peak CCU of around ~8k daily](https://fortnite.gg/island?code=1832-0431-4852).
 
 [Video](https://x.com/ZeroYaHero/status/1915778658246983900)
 
 ---
 
-## VerseVolumes: Trigger Volume Tool Written in OOP
+## VerseVolumes: OOP Trigger Volume Tool
 
 <img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="300">
 
@@ -151,7 +156,7 @@ or individual.
 
 ---
 
-## BugByte (WIP)
+## BugByte
 
 <img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="300">
 
@@ -159,17 +164,4 @@ or individual.
 
 ![GodotBlender](https://skillicons.dev/icons?i=godot,blender&theme=light)
 
-BugByte is a work-in-progress narrative arcade game created in Godot. The story starts
-with a character who applied for hundreds of jobs and got rejected from all of
-them...except one.
-
-One night a response to an application lands in their inbox, and it is not a rejection
-this time. Oddly enough, the character has no evidence or recollection that they even
-applied. In desperation, they accept. Can you blame them? No interview!
-
-The character and you learn the details of the job on the spot through a terminal. The
-computer that looked at job rejections is now a barebones shell interface. The company
-claims it is for security and increased performance.
-
-This limited look into the job leaves you with questions. What actually happens here?
-What does your job actually do? Do you do the right thing?
+BugByte is a work-in-progress narrative game created in Godot. The current elements feature a terminal emulator I created in engine which the player uses to progress through the story.

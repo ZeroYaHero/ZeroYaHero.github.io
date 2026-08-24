@@ -6,11 +6,13 @@ permalink: /experience/
 
 {% include nav.html %}
 
-# Education
+## Education
 - B.S. in Computer Science from University of Southern Maine
     - x5 Deans List
 
-# Software Engineer Intern (VR Visualization) @ Kelson Marine Co. (via Innovate for Maine Fellowship)
+---
+
+## Software Engineer Intern (VR Visualization) @ Kelson Marine Co. (via Innovate for Maine Fellowship)
 Portland, Maine
 
 May 2026 -- August 2026
@@ -20,7 +22,9 @@ May 2026 -- August 2026
 - Helped improve their rendering of simulation data inside Unity, optimizing with HLSL (standard surface and compute), GPU instancing, and Burst jobs.
 - Improved Unity framerate in-editor by ~60% for loadcases using the new wave mode.
 
-# UEFN Programmer & Technical Artist Contractor
+---
+
+## UEFN Programmer & Technical Artist Contractor
 May 2023 -- Present
 
 - Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
@@ -29,7 +33,9 @@ May 2023 -- Present
 - Automating tedious tasks with Python scripts and other self-programmed external tools.
 - Creating assets with Blender, Adobe, MaterialMaker, etc.
 
-# Independent Developer
+---
+
+## Independent Developer
 March 2019 -- June 2022
 
 Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
@@ -47,7 +53,9 @@ Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
         - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated) 
 - **One of the few founders of Zone Wars genre**
 
-# Functional QA Tester @ Activision Central Tech (Temporary)
+---
+
+## Functional QA Tester @ Activision Central Tech (Temporary)
 Portland, Maine
 
 June 2022 -- August 2022
@@ -58,8 +66,9 @@ June 2022 -- August 2022
 - Debugged in C++ with Visual Studio and exercised the engine through the level editor.
 - Filed defects and test reports in JIRA, working under Perforce.
 
+---
 
-# Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
+## Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
 Portland, Maine
 
 Feburary 2026 -- May 2026
@@ -69,8 +78,12 @@ Feburary 2026 -- May 2026
 - SimpleText: classified scientific papers against a taxonomy by prompting a small open-weight LLM, then embedding each answer and walking down the taxonomy tree by similarity. Co-authored the paper.
 - Self-directed effort to host a local llama.cpp inference server, consolidating scattered per-user model downloads behind one endpoint and offloading to system RAM to fit larger model
 
-# YouTube Creator
+---
+
+## YouTube Creator
 March 2019 -- April 2020
 
 - Gained **15 thousand** subscribers and **2 million** views over the course of a year
 - Primarily educational/tutorial based Fortnite UGC content, but also did showcase of own creations
+
+---

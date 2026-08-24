@@ -26,28 +26,25 @@ Logos, branding, and key art.
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Logo and branding kit for a local residential window washing company.
-
-<!-- TODO: one or two sentences. What is the company, what did you make, which tools? -->
+Logo work for a local residential window washing company.
 
 ---
 
 ## Zero Station Framing
 
-<!-- TODO: the assets/design/zsframe/ folder is empty. Add the images, then
-     copy the <div class="logo-grid"> block above and point it at them. -->
-
-<!-- TODO: one or two sentences. -->
+<div class="logo-grid">
+  <img src="{{ '/assets/design/zsframe/ZSOrangeFinal.png' | relative_url }}" alt="ZS main logo color and text">
+  <img src="{{ '/assets/design/zsframe/ZSWhiteAlpha.png' | relative_url }}" alt="ZS main logo">
+  <img src="{{ '/assets/design/zsframe/ZSWhiteFramingAlpha.png' | relative_url }}" alt="ZS main logo and text">
+</div>
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Logo and branding kit for a local art framing company.
+Logo work for a local art framing company.
 
 ---
 
 ## ZeroYaHero
-
-All ZeroYaHero assets are created by 
 
 <div class="logo-grid">
   <img src="{{ '/assets/brand/T_ZeroFaceLogo.png' | relative_url }}" alt="ZeroYaHero face logo">
@@ -56,6 +53,8 @@ All ZeroYaHero assets are created by
 </div>
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
+
+All ZeroYaHero logos or branding is created by myself in Procreate, Adobe Illustrator, and Blender!
 
 ---
 
@@ -67,9 +66,6 @@ All ZeroYaHero assets are created by
 
 I made the logo and the key art for my own game, [Storm Box]({{ '/projects/' | relative_url }}).
 I rendered the logo, the animation, and the thumbnail in Blender.
-
-<!-- TODO: the assets/design/stormbox/ folder is empty. Add the logo files
-     and the animation stills, then add a logo-grid block. -->
 
 ---
 
@@ -100,4 +96,4 @@ have distinct and clean branding, so I made two different logos that mirrored a 
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-<!-- TODO: one or two sentences. What is JobBeaconMaine, what did you make? -->
+Databases course full-stack web application team project. I designed my teams logos and branding.
