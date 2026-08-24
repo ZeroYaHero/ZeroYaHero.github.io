@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-nav {
+  margin-bottom: 2em;
+  padding-bottom: 0.6em;
+  border-bottom: 1px solid #e5e5e5;
+  font-weight: bold;
+}
+
+section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.project {
+  margin-bottom: 3em;
+}
+
+.tools img {
+  vertical-align: middle;
+  margin-right: 6px;
+}
