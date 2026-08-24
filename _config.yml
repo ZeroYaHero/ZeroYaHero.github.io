@@ -9,8 +9,8 @@ header_logo: /assets/brand/T_ZeroFaceLogo.png
 # opacity 0 = invisible, 1 = full strength.
 # size: cover fills the window, contain fits it, auto keeps natural size.
 # repeat: no-repeat, repeat, repeat-x, repeat-y.
-background_image: /assets/brand/T_ZeroBanner.png
-background_opacity: 0.12
+background_image: /assets/brand/T_ZeroBackground.png
+background_opacity: 0.5
 background_size: cover
 background_repeat: no-repeat
 
