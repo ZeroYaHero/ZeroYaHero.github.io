@@ -8,13 +8,13 @@ permalink: /content/
 
 # Content
 
-Shaders, materials, and renders made in Unreal, Blender, or procedural texture node editors (Substance Designer, Material Maker, etc)
+Shaders, assets, and renders made in Unreal, Blender, or procedural texture node editors (Substance Designer, Material Maker, etc)
 
 ---
 
 ## Knockout Tour Inspired Post-Processing and Emissive Shaders
 
-<img src="{{ '/assets/Supplements/T_Knockout.png' | relative_url }}" alt="Knockout shader" width="300">
+<img src="{{ '/assets/content/knockout/T_Knockout.png' | relative_url }}" alt="Knockout shader" width="300">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 
@@ -29,7 +29,7 @@ ended up as a fun warmup instead.
 
 ## Battle Royale Storm / Zone Inspired Shader
 
-<img src="{{ '/assets/Supplements/T_Storm.png' | relative_url }}" alt="Storm shader" width="300">
+<img src="{{ '/assets/content/storm/T_Storm.png' | relative_url }}" alt="Storm shader" width="300">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 
@@ -45,9 +45,9 @@ much trial and error, I got something pretty close.
 
 ## Thumbnail Sparkle and Outline Utility Shader
 
-<img src="{{ '/assets/Supplements/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="300">
+<img src="{{ '/assets/content/thumbnail/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="300">
 
-<img src="{{ '/assets/Supplements/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
+<img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
 I worked with a content creator who managed a popular UGC gamemode in Fortnite. Each
 time they updated their mode, they usually updated the thumbnail with a sparkling *new*
@@ -61,10 +61,10 @@ parameters.
 
 ## Cardboard Box Model and Fire Dissolve Shader
 
-<img src="{{ '/assets/Supplements/burn_demo.gif' | relative_url }}" alt="Fire dissolve demo" width="300">
+<img src="{{ '/assets/content/firedissolve/burn_demo.gif' | relative_url }}" alt="Fire dissolve demo" width="300">
 
 ![UnrealBlender](https://skillicons.dev/icons?i=unreal,blender&theme=light)
-<img src="{{ '/assets/Supplements/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
+<img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
 One of my games, [Storm Box](https://github.com/ZeroYaHero/StormBox), used completely
 procedural elements. The game generated the terrain, randomized the direction of the safe
@@ -76,11 +76,11 @@ boxes that players spawned in. I scrapped it later.
 
 ## Reload Realistics: Logo Renders
 
-<img src="{{ '/assets/Supplements/RR_SkyRenderV4SquarePS.png' | relative_url }}" alt="Reload Realistics square render" width="384">
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV4SquarePS.png' | relative_url }}" alt="Reload Realistics square render" width="384">
 
-<img src="{{ '/assets/Supplements/RR_SkyRenderLogoPS.png' | relative_url }}" alt="Reload Realistics wide render" width="384">
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="Reload Realistics wide render" width="384">
 
-<img src="{{ '/assets/Supplements/RR_SkyRenderV1.png' | relative_url }}" alt="Reload Realistics first render" width="384">
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV1.png' | relative_url }}" alt="Reload Realistics first render" width="384">
 
 ![BlenderIllustrator](https://skillicons.dev/icons?i=blender,illustrator&theme=light)
 
@@ -94,7 +94,7 @@ in a scene with clouds in Blender.
 
 ## Promotional Shaders
 
-<img src="{{ '/assets/Supplements/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="300">
+<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="300">
 
 ![UnrealIllustrator](https://skillicons.dev/icons?i=unreal,illustrator&theme=light)
 
@@ -106,12 +106,12 @@ vector art in Adobe Illustrator.
 
 ---
 
-## Reload Realistics: UI Holographic Button Shader
+## Reload Realistics: Holographic UI Button Shader
 
-<img src="{{ '/assets/Supplements/holo_buttons.gif' | relative_url }}" alt="Holographic buttons" width="300">
+<img src="{{ '/assets/content/holobuttons/holo_buttons.gif' | relative_url }}" alt="Holographic buttons" width="300">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
-<img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 For **Reload Realistics** I designed these holographic buttons as if they came from the
 mode. I think it came out clean. I used Unreal Motion Graphics (UMG) designer, Verse, and
@@ -123,9 +123,9 @@ the Unreal Engine material graph.
 
 ## Sci-Fi Cube Study Shader
 
-<img src="{{ '/assets/Supplements/T_SciFiCube.png' | relative_url }}" alt="Sci-fi cube shader" width="300">
+<img src="{{ '/assets/content/scificube/T_SciFiCube.png' | relative_url }}" alt="Sci-fi cube shader" width="300">
 
-<img src="{{ '/assets/Supplements/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
+<img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
 Substance Designer is soooo much fun. I had no reason to mock this up. I wanted to play
 with the node editor.

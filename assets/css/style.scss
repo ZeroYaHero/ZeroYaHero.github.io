@@ -151,3 +151,25 @@ section img {
 .logo-grid img.wide {
   width: 320px;
 }
+
+// Page background image.
+//
+// CSS cannot fade a background-image on its own, only the whole element. So the
+// image goes on a fixed pseudo-element behind the content, where opacity is
+// free to act on it. The layout sets the custom properties from _config.yml.
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: var(--bg-image, none);
+  background-size: var(--bg-size, cover);
+  background-repeat: var(--bg-repeat, no-repeat);
+  background-position: center center;
+  opacity: var(--bg-opacity, 0.12);
+}

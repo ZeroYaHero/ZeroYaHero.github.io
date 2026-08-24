@@ -27,9 +27,9 @@ material types, camera effects, and multithreading.
 
 ## Zetris
 
-<img src="{{ '/assets/Supplements/ZETRIS_LOGO.png' | relative_url }}" alt="Zetris logo" width="150">
+<img src="{{ '/assets/projects/zetris/ZETRIS_LOGO.png' | relative_url }}" alt="Zetris logo" width="150">
 
-<img src="{{ '/assets/Supplements/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="300">
+<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="300">
 
 ![c](https://skillicons.dev/icons?i=c,cmake&theme=dark)
 
@@ -46,7 +46,7 @@ a terminal version comes later.
 
 ## UEFN Class Generator
 
-![Class generator demo]({{ '/assets/Supplements/classgen_demo.gif' | relative_url }})
+![Class generator demo]({{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }})
 
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
 
@@ -62,18 +62,18 @@ detail.
 
 ## Storm Box
 
-<img src="{{ '/assets/Supplements/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="384">
+<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="384">
 
 ![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=light)
-<img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
-<img src="{{ '/assets/Supplements/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+<img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
 Full game that I made and published myself in the Fortnite UGC ecosystem.
 
 - Procedural and randomized storm
 - Procedural and randomized environment generation system, which uses [VerseNoise](#versenoise)
 
-  <img src="{{ '/assets/Supplements/procenv_demo.gif' | relative_url }}" alt="Procedural environment demo" width="250">
+  <img src="{{ '/assets/projects/stormbox/procenv_demo.gif' | relative_url }}" alt="Procedural environment demo" width="250">
 - UE materials (storm, UI, landscape)
 - Substance 3D materials (lobby walls, floor, and ceiling, cardboard box, platform)
 - Blender models and rigs (cardboard box, platform, terrain prefabs, lobby)
@@ -86,10 +86,10 @@ Full game that I made and published myself in the Fortnite UGC ecosystem.
 
 ## VerseNoise
 
-![VerseNoise demo]({{ '/assets/Supplements/versenoise_demo.gif' | relative_url }})
+![VerseNoise demo]({{ '/assets/projects/versenoise/versenoise_demo.gif' | relative_url }})
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=dark)
-<img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 Custom noise program in UE/UEFN Verse. Perlin noise inspired it, and it uses Fractal
 Brownian Motion (FBM). Verse has no native noise method and no bitwise operators, so the
@@ -103,11 +103,11 @@ program depends completely on `mod`. This made performance a challenge.
 ## HP Customizer
 
 <p><a href="https://x.com/ZeroYaHero/status/1915778658246983900">
-<img src="{{ '/assets/Supplements/hp_customizer.gif' | relative_url }}" alt="HP Customizer" width="300">
+<img src="{{ '/assets/projects/hpcustomizer/hp_customizer.gif' | relative_url }}" alt="HP Customizer" width="300">
 </a></p>
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
-<img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 Mechanic made in Verse and the UE material graph. The visual component lets playersFpr
 modify their own health. This was a commissioned piece for
@@ -119,9 +119,9 @@ modify their own health. This was a commissioned piece for
 
 ## VerseVolumes: Trigger Volume Tool Written in OOP
 
-<img src="{{ '/assets/Supplements/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="300">
+<img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="300">
 
-<img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 Commission for another UEFN creator. OOP is not my favorite, and as I learn more I
 prefer ECS. For this project I wanted to push OOP to the limits. The tool abstracts
@@ -134,9 +134,9 @@ and actors.
 
 ## "Dead by Daylight" Inspired QTE/Skill Check
 
-[![QTE demo]({{ '/assets/Supplements/qte_demo.gif' | relative_url }})](https://x.com/ZeroYaHero/status/1735732924182327667)
+[![QTE demo]({{ '/assets/projects/qte/qte_demo.gif' | relative_url }})](https://x.com/ZeroYaHero/status/1735732924182327667)
 
-<img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 Hand drawn assets in Procreate. I then scripted the UI in Verse. The logic is simple.
 The track is a normalized 0 to 1 range. When the player presses the button, the system
@@ -153,9 +153,9 @@ or individual.
 
 ## BugByte (WIP)
 
-<img src="{{ '/assets/Supplements/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="300">
+<img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="300">
 
-<img src="{{ '/assets/Supplements/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="300">
+<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="300">
 
 ![GodotBlender](https://skillicons.dev/icons?i=godot,blender&theme=light)
 

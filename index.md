@@ -1,27 +1,26 @@
 ---
 layout: default
-title: ZeroYaHero
+title: About me
 ---
 
 {% include nav.html %}
 
-<img src="{{ '/assets/Supplements/T_ZeroBanner.png' | relative_url }}" alt="ZeroYaHero">
+<img src="{{ '/assets/brand/T_ZeroBanner.png' | relative_url }}" alt="ZeroYaHero">
 
-I make games, tools, shaders, and renders. Some of the work here has its own GitHub
-repository. Some of it does not.
+My name is Ellis, but most of my work is under the pseudonym "ZeroYaHero" (most people just call me "Zero"). In this website you can find work that I have done on my own or with others in personal, academic, and professional settings. Across all of it, you'll find that I have a mixture of artistic and technical abilities, and I take pride in pushing both to their extremes to make
+high-performance tools and good-looking visuals.
 
-- [Projects]({{ '/projects/' | relative_url }}) — Games, tools, and more technically demanding projects.
+ <!-- It was my gamertag that I gave myself after "Zero" was (unsurprisingly) taken. I thought that by making my name rhyme it would be more memorable. The "Ya" is supposed to be "Your", like, "Zero Your Hero" -->
+
+<!-- - [Projects]({{ '/projects/' | relative_url }}) — Games, tools, and more technically demanding projects.
 - [Content]({{ '/content/' | relative_url }}) — Shaders, assets, and renders.
 - [Design]({{ '/design/' | relative_url }}) — Logos and branding.
-- [Experience]({{ '/experience/' | relative_url }}) — My experiences.
+- [Experience]({{ '/experience/' | relative_url }}) — My experiences. -->
 
 ## Contact
 
-Interested in doing work? Email me!
+Interested in doing work or chatting? Email me:
 [zeroyaheroofficial@gmail.com](mailto:zeroyaheroofficial@gmail.com)
 
-{% for link in site.header_links %}
-- [{{ link.name }}]({{ link.url }})
-{%- endfor %}
 
-<img src="{{ '/assets/Supplements/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
+<img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">

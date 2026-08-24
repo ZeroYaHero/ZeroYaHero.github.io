@@ -3,7 +3,16 @@ title: ZeroYaHero
 description: Games, tools, and design.
 
 # Logo shown at the top of every page. Comment out to hide it.
-header_logo: /assets/Supplements/T_ZeroFaceLogo.png
+header_logo: /assets/brand/T_ZeroFaceLogo.png
+
+# Page background image. Comment out background_image to turn it off.
+# opacity 0 = invisible, 1 = full strength.
+# size: cover fills the window, contain fits it, auto keeps natural size.
+# repeat: no-repeat, repeat, repeat-x, repeat-y.
+background_image: /assets/brand/T_ZeroBanner.png
+background_opacity: 0.12
+background_size: cover
+background_repeat: no-repeat
 
 # Buttons in the site header. Order is the order shown.
 # icon must match a {% when %} branch in _includes/icon.html
