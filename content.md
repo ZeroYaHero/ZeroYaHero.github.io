@@ -8,7 +8,7 @@ permalink: /content/
 
 # Content
 
-Shaders, materials, and renders made in Unreal, Blender, Substance 3D, and Illustrator.
+Shaders, materials, and renders made in Unreal, Blender, or procedural texture node editors (Substance Designer, Material Maker, etc)
 
 ---
 

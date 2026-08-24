@@ -109,7 +109,7 @@ program depends completely on `mod`. This made performance a challenge.
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 <img src="{{ '/assets/Supplements/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
-Mechanic made in Verse and the UE material graph. The visual component lets players
+Mechanic made in Verse and the UE material graph. The visual component lets playersFpr
 modify their own health. This was a commissioned piece for
 [Raider464's most popular game, which hits a peak CCU of around 10k daily](https://fortnite.gg/island?code=1832-0431-4852).
 
