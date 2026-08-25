@@ -12,9 +12,13 @@ seo:
 
 # About Me
 
+<div align="center">
+
 <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
 
-<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">![langs](https://skillicons.dev/icons?i=c,cpp,python,cs,java&theme=dark)
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48"> ![langs](https://skillicons.dev/icons?i=c,cpp,python,cs,java&theme=dark)
+
+</div>
 
 ![tech](https://go-skill-icons.vercel.app/api//icons?i=unreal,blender,git,github,unity,godot,visualstudio,illustrator&theme=dark)
 

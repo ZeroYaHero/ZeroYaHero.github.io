@@ -17,7 +17,7 @@ Games, tools, and other technically demanding software.
 
 ## Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
 
-<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="300">
+<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="600">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,cs,python,unity&theme=dark)
 
@@ -31,7 +31,7 @@ This resulted in Kelson having a visualization-optimized gerstner wave simulatio
 
 ## ZeRayTracer
 
-<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="300">
+<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="600">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark)
 
@@ -44,9 +44,9 @@ material types, camera effects, and multithreading.
 
 ## Zetris
 
-<img src="{{ '/assets/projects/zetris/ZETRIS_LOGO.png' | relative_url }}" alt="Zetris logo" width="150">
+<img src="{{ '/assets/projects/zetris/ZETRIS_LOGO.png' | relative_url }}" alt="Zetris logo" width="300">
 
-<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="300">
+<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="600">
 
 ![c](https://skillicons.dev/icons?i=c,cmake,visualstudio,clion&theme=dark)
 
@@ -61,7 +61,7 @@ I intend to add others in the future.
 
 ## UEFN Class Generator
 
-![Class generator demo]({{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }})
+<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="600">
 
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -76,8 +76,9 @@ detail here.
 ---
 
 ## Storm Box
+{: #stormbox }
 
-<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="384">
+<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="600">
 
 ![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=light)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -88,7 +89,7 @@ Full game published myself in Fortnite UGC ecosystem.
 - Procedural and randomized storm
 - Procedural and randomized environment generation system, which uses [VerseNoise](#versenoise)
 
-  <img src="{{ '/assets/projects/stormbox/procenv_demo.gif' | relative_url }}" alt="Procedural environment demo" width="250">
+  <img src="{{ '/assets/projects/stormbox/procenv_demo.gif' | relative_url }}" alt="Procedural environment demo" width="350">
 - UE materials (storm, UI, landscape)
 - Substance 3D materials (lobby walls, floor, and ceiling, cardboard box, platform)
 - Blender models and rigs (cardboard box, platform, terrain prefabs, lobby)
@@ -115,10 +116,23 @@ program depends completely on `mod`. This made performance a challenge.
 
 ---
 
+## Wordhole
+{: #wordhole }
+
+<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="BugByte logo" width="150">
+
+<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="BugByte screenshot" width="600">
+
+![tools](https://go-skill-icons.vercel.app/api//icons?i=unity,cs,aseprite&theme=dark)
+
+Team project for Game Design course. I pitched the idea as "scrabble meets tetris," taking advantage of them both being played on a grid. I did most of the logic programming (though it is a vertical slice), and worked on the innovative scoring mechanic. I also did all of the shader work.
+
+---
+
 ## HP Customizer
 
 <p><a href="https://x.com/ZeroYaHero/status/1915778658246983900">
-<img src="{{ '/assets/projects/hpcustomizer/hp_customizer.gif' | relative_url }}" alt="HP Customizer" width="300">
+<img src="{{ '/assets/projects/hpcustomizer/hp_customizer.gif' | relative_url }}" alt="HP Customizer" width="450">
 </a></p>
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
@@ -134,7 +148,7 @@ modify their own health. This was a commissioned piece for
 
 ## VerseVolumes: OOP Trigger Volume Tool
 
-<img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="300">
+<img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="450">
 
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
@@ -150,7 +164,7 @@ and actors.
 ## "Dead by Daylight" Inspired QTE/Skill Check
 {: #qte }
 
-[![QTE demo]({{ '/assets/projects/qte/qte_demo.gif' | relative_url }})](https://x.com/ZeroYaHero/status/1735732924182327667)
+<img src="{{ '/assets/projects/qte/qte_demo.gif' | relative_url }}" alt="qte" width="450">
 
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
@@ -167,23 +181,11 @@ or individual.
 
 ---
 
-## Wordhole
-
-<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="BugByte logo" width="300">
-
-<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="BugByte screenshot" width="300">
-
-![tools](https://go-skill-icons.vercel.app/api//icons?i=unity,cs,aseprite&theme=dark)
-
-Team project for Game Design course. I pitched the idea as scrabble meets tetris, taking advantage of them both being played on a grid. I did most of the logic programming (though it is a vertical slice). I also did all of the shader work.
-
----
-
 ## BugByte
 
-<img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="300">
+<img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="400">
 
-<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="300">
+<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="600">
 
 ![GodotBlender](https://skillicons.dev/icons?i=godot,blender&theme=light)
 

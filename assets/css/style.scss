@@ -152,6 +152,23 @@ section img {
   width: 320px;
 }
 
+// Render galleries. Unlike .logo-grid, these hold full images, so they get no
+// card frame and the columns divide the row evenly.
+
+.render-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+  margin: 0 0 20px;
+}
+
+.render-grid img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
 // Page background image.
 //
 // CSS cannot fade a background-image on its own, only the whole element. So the

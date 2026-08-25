@@ -74,7 +74,7 @@ All ZeroYaHero logos or branding is done by myself.
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-I made the logos for my game [Storm Box]({{ '/projects/' | relative_url }}). Here is a few iterations before ending on the final.
+I made the logos for my game [Storm Box]({{ '/projects/#stormbox' | relative_url }}). Here is a few iterations before ending on the final.
 
 ---
 
@@ -105,26 +105,32 @@ have distinct and clean branding, so I made two different logos that mirrored a 
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Databases course full-stack web application team project. I designed my teams logos and branding.
+Databases course full-stack web application team project. I designed my teams logos and branding.\\
+
+---
 
 ## BugByte
 
-<img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="bugbyte logo">
+<img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" width="500" alt="bugbyte logo">
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
 Logo created for my Godot based indie game project.
 
+---
+
 ## Wordhole
 
-<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="Wordhole logo" width="150">
+<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" width="400" alt="Wordhole logo" width="150">
 
 ![tools](https://go-skill-icons.vercel.app/api//icons?i=aseprite&theme=dark)
 
-Logo I made for Game Design course team project.
+Logo I made for [Game Design course team project]({{ '/projects/#wordhole' | relative_url }}).
+
+---
 
 ## "Dead by Daylight" Inspired QTE/Skill Check Texture Art
 
-<img src="{{ '/assets/design/qte/T_QTEAssets.png' | relative_url }}" alt="qte art">
+<img src="{{ '/assets/design/qte/T_QTEAssets.png' | relative_url }}" width="600" alt="qte art">
 
 Custom art assets created in Procreate used for the [QTE/Skill Check I created in UEFN with Verse]({{ '/projects/#qte' | relative_url }}).

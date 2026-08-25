@@ -17,7 +17,7 @@ Shaders, assets, and renders made in Unreal, Blender, or procedural texture node
 
 ## Knockout Tour Inspired Post-Processing and Emissive Shaders
 
-<img src="{{ '/assets/content/knockout/T_Knockout.png' | relative_url }}" alt="Knockout shader" width="300">
+<img src="{{ '/assets/content/knockout/T_Knockout.png' | relative_url }}" alt="Knockout shader" width="500">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 
@@ -32,7 +32,7 @@ ended up as a fun warmup instead.
 
 ## Battle Royale Storm / Zone Inspired Shader
 
-<img src="{{ '/assets/content/storm/T_Storm.png' | relative_url }}" alt="Storm shader" width="300">
+<img src="{{ '/assets/content/storm/T_Storm.png' | relative_url }}" alt="Storm shader" width="500">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 
@@ -48,7 +48,7 @@ much trial and error, I got something pretty close.
 
 ## Thumbnail Sparkle and Outline Utility Shader
 
-<img src="{{ '/assets/content/thumbnail/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="300">
+<img src="{{ '/assets/content/thumbnail/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="500">
 
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
@@ -64,11 +64,11 @@ parameters.
 
 ## Reload Realistics: Logo Renders
 
-<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV4SquarePS.png' | relative_url }}" alt="Reload Realistics square render" width="384">
-
-<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="Reload Realistics wide render" width="384">
-
-<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV1.png' | relative_url }}" alt="Reload Realistics first render" width="384">
+<div class="render-grid">
+  <img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV4SquarePS.png' | relative_url }}" alt="Reload Realistics square render">
+  <img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="Reload Realistics wide render">
+  <img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV1.png' | relative_url }}" alt="Reload Realistics first render">
+</div>
 
 ![BlenderIllustrator](https://skillicons.dev/icons?i=blender,illustrator&theme=light)
 
@@ -82,7 +82,7 @@ in a scene with clouds in Blender.
 
 ## Reload Realistics: Holographic UI Button Shader
 
-<img src="{{ '/assets/content/holobuttons/holo_buttons.gif' | relative_url }}" alt="Holographic buttons" width="300">
+<img src="{{ '/assets/content/holobuttons/holo_buttons.gif' | relative_url }}" alt="Holographic buttons" width="600">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -97,7 +97,7 @@ the Unreal Engine material graph.
 
 ## Cardboard Box Model and Fire Dissolve Shader
 
-<img src="{{ '/assets/content/firedissolve/burn_demo.gif' | relative_url }}" alt="Fire dissolve demo" width="300">
+<img src="{{ '/assets/content/firedissolve/burn_demo.gif' | relative_url }}" alt="Fire dissolve demo" width="500">
 
 ![UnrealBlender](https://skillicons.dev/icons?i=unreal,blender&theme=light)
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
@@ -112,7 +112,7 @@ boxes that players spawned in. I scrapped it later.
 
 ## Promotional Shaders
 
-<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="300">
+<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="600">
 
 ![UnrealIllustrator](https://skillicons.dev/icons?i=unreal,illustrator&theme=light)
 
@@ -126,7 +126,7 @@ vector art in Adobe Illustrator.
 
 ## Sci-Fi Cube Study Shader
 
-<img src="{{ '/assets/content/scificube/T_SciFiCube.png' | relative_url }}" alt="Sci-fi cube shader" width="300">
+<img src="{{ '/assets/content/scificube/T_SciFiCube.png' | relative_url }}" alt="Sci-fi cube shader" width="500">
 
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 

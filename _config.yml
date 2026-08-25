@@ -21,6 +21,7 @@ social:
     - https://x.com/ZeroYaHero
     - https://github.com/ZeroYaHero
     - https://www.linkedin.com/in/ellisfitz/
+    - https://www.youtube.com/zeroyahero
 
 # Logo shown at the top of every page. Comment out to hide it.
 header_logo: /assets/brand/T_ZeroFaceLogo.png
@@ -52,6 +53,9 @@ header_links:
   - name: LinkedIn
     url: https://www.linkedin.com/in/ellisfitz/
     icon: linkedin
+  - name: YouTube
+    url: https://www.youtube.com/zeroyahero
+    icon: youtube
 
 plugins:
   - jekyll-seo-tag
