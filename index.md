@@ -27,8 +27,8 @@ high-performance tools and good-looking visuals.
 
  <!-- It was my gamertag that I gave myself after "Zero" was (unsurprisingly) taken. I thought that by making my name rhyme it would be more memorable. The "Ya" is supposed to be "Your", like, "Zero Your Hero" -->
 
-<!-- - [Projects]({{ '/projects/' | relative_url }}) — Games, tools, and more technically demanding projects.
-- [Content]({{ '/content/' | relative_url }}) — Shaders, assets, and renders.
+<!-- - [Software]({{ '/software/' | relative_url }}) — Games, tools, and more technically demanding projects.
+- [Tech Art]({{ '/techart/' | relative_url }}) — Shaders, assets, and renders.
 - [Design]({{ '/design/' | relative_url }}) — Logos and branding.
 - [Experience]({{ '/experience/' | relative_url }}) — My experiences. -->
 

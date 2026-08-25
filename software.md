@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Software
+permalink: /software/
 description: >-
-  Games, tools, and technically demanding projects built by ZeroYaHero,
-  from engine plugins to shipped game jam entries.
+  Games, tools, and technically demanding projects built by ZeroYaHero.
 ---
 
 {% include nav.html %}
 
-# Projects
+# Software
 
 Games, tools, and other technically demanding software.
 

@@ -74,7 +74,7 @@ All ZeroYaHero logos or branding is done by myself.
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-I made the logos for my game [Storm Box]({{ '/projects/#stormbox' | relative_url }}). Here is a few iterations before ending on the final.
+I made the logos for my game [Storm Box]({{ '/software/#stormbox' | relative_url }}). Here is a few iterations before ending on the final.
 
 ---
 
@@ -125,7 +125,7 @@ Logo created for my Godot based indie game project.
 
 ![tools](https://go-skill-icons.vercel.app/api//icons?i=aseprite&theme=dark)
 
-Logo I made for [Game Design course team project]({{ '/projects/#wordhole' | relative_url }}).
+Logo I made for [Game Design course team project]({{ '/software/#wordhole' | relative_url }}).
 
 ---
 
@@ -133,4 +133,4 @@ Logo I made for [Game Design course team project]({{ '/projects/#wordhole' | rel
 
 <img src="{{ '/assets/design/qte/T_QTEAssets.png' | relative_url }}" width="600" alt="qte art">
 
-Custom art assets created in Procreate used for the [QTE/Skill Check I created in UEFN with Verse]({{ '/projects/#qte' | relative_url }}).
+Custom art assets created in Procreate used for the [QTE/Skill Check I created in UEFN with Verse]({{ '/software/#qte' | relative_url }}).
