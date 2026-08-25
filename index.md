@@ -1,8 +1,7 @@
 ---
 layout: default
 description: >-
-  ZeroYaHero is the portfolio of Ellis, a technical artist and software
-  developer. Games, tools, shaders, renders, and brand design.
+  ZeroYaHero's software, tech art, and design portfolio.
 seo:
   type: Person
   name: ZeroYaHero
