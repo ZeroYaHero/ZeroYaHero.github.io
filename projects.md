@@ -102,7 +102,7 @@ Full game published myself in Fortnite UGC ecosystem.
 
 ## VerseNoise
 
-![VerseNoise demo]({{ '/assets/projects/versenoise/versenoise_demo.gif' | relative_url }})
+<img src="{{ '/assets/projects/versenoise/versenoise_demo.gif' | relative_url }}" alt="noise" width="500">
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -119,7 +119,7 @@ program depends completely on `mod`. This made performance a challenge.
 ## Wordhole
 {: #wordhole }
 
-<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="BugByte logo" width="150">
+<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="BugByte logo" width="300">
 
 <img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="BugByte screenshot" width="600">
 
