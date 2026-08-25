@@ -121,7 +121,7 @@ Logo created for my Godot based indie game project.
 
 ## Wordhole
 
-<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" width="400" alt="Wordhole logo" width="150">
+<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" width="400" alt="Wordhole logo">
 
 ![tools](https://go-skill-icons.vercel.app/api//icons?i=aseprite&theme=dark)
 
