@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Content
+title: Tech Art
 permalink: /techart/
+description: >-
+  Shaders, VFX, procedural assets, and renders by ZeroYaHero. Real-time
+  material work for games and animation.
 ---
 
 {% include nav.html %}

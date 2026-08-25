@@ -2,6 +2,9 @@
 layout: default
 title: Projects
 permalink: /projects/
+description: >-
+  Games, tools, and technically demanding projects built by ZeroYaHero,
+  from engine plugins to shipped game jam entries.
 ---
 
 {% include nav.html %}
@@ -12,13 +15,17 @@ Games, tools, and other technically demanding software.
 
 ---
 
-## Waves @ [Kelson Marine Co.](https://zeroyahero.com/experience)
+## Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
 
-<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="ZeRayTracer render" width="300">
+<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="300">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,cs,python,unity&theme=dark)
 
-Improved Kelson's VR visualization for ocean waves in Unity. Previously they used sum-of-wave-components for the water surface which was resource demanding and unconvincing. Required an offline wave simulation model and a real-time wave renderer to agree on ocean surface at every point and time. Reverse-engineered a Unity high-performance real-time water rendering package built on FFTs. Applied ocean-engineer-advised modifications. Implemented it as an alternative simulation mode inside Kelson's C++ framework. Created novel solution for computing below surface velocities and accelerations. Resulted in Kelson getting a new gerstner wave simulation model and better looking waves in Unity with stronger performance.
+Improved Kelson's VR visualization for ocean waves in Unity. 
+
+Previously they used sum-of-wave-components for the water surface which was resource demanding and unconvincing. The system requires an offline wave simulation model and a real-time wave renderer to agree on ocean surface at every point and time. I reverse-engineered a Unity high-performance real-time water rendering package built on FFTs. I applied ocean-engineer-advised modifications, came up with novel solutions for computing below surface velocities and accelerations, and finally implemented it as an alternative simulation mode inside Kelson's C++ framework. 
+
+This resulted in Kelson having a visualization-optimized gerstner wave simulation model and better looking waves with stronger performance in Unity.
 
 ---
 
@@ -26,7 +33,7 @@ Improved Kelson's VR visualization for ocean waves in Unity. Previously they use
 
 <img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="300">
 
-![cpp](https://skillicons.dev/icons?i=cpp,cmake&theme=dark)
+![cpp](https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark)
 
 CPU ray tracer programmed in C++ with CMake. Contains different
 material types, camera effects, and multithreading.
@@ -41,12 +48,12 @@ material types, camera effects, and multithreading.
 
 <img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="300">
 
-![c](https://skillicons.dev/icons?i=c,cmake&theme=dark)
+![c](https://skillicons.dev/icons?i=c,cmake,visualstudio,clion&theme=dark)
 
 Retro game clone written in C. The playfield is encoded into 32 bit integers
 and the pieces are encoded in 16 bit integers. Bitwise operators rotate the pieces,
 detect collision, and lock the cells. Unique project structure. It offers a default renderer with Raylib, and
-I hope to add others in the future.
+I intend to add others in the future.
 
 [GitHub](https://github.com/ZeroYaHero/Zetris)
 
@@ -57,6 +64,7 @@ I hope to add others in the future.
 ![Class generator demo]({{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }})
 
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 GUI that generates Verse code and UEFN devices (UE actor properties) from a set of
 configurations. The tool combines the configurations with a cartesian product. Was a quick project that didn't need to look pretty. I created this tool for
@@ -75,7 +83,7 @@ detail here.
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
-Full game that I made and published myself in the Fortnite UGC ecosystem.
+Full game published myself in Fortnite UGC ecosystem.
 
 - Procedural and randomized storm
 - Procedural and randomized environment generation system, which uses [VerseNoise](#versenoise)
@@ -130,8 +138,8 @@ modify their own health. This was a commissioned piece for
 
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
-Commission for another UEFN creator. OOP is not my favorite, and as I learn more I
-prefer ECS. For this project I wanted to push OOP to the limits. The tool abstracts
+Commission for another UEFN creator. OOP is not my favorite, and as I do more the more I
+prefer ECS (or just simple composition over inheritance trees). For this project I wanted to experiment with it in an extreme way. The tool abstracts
 trigger volumes and lets the user select positions or source the transforms of entities
 and actors.
 
@@ -140,6 +148,7 @@ and actors.
 ---
 
 ## "Dead by Daylight" Inspired QTE/Skill Check
+{: #qte }
 
 [![QTE demo]({{ '/assets/projects/qte/qte_demo.gif' | relative_url }})](https://x.com/ZeroYaHero/status/1735732924182327667)
 
@@ -148,13 +157,25 @@ and actors.
 Hand drawn assets in Procreate. I then scripted the UI in Verse. The logic is simple.
 The track is a normalized 0 to 1 range. When the player presses the button, the system
 evaluates the position and compares it to the "critical" point at a very low float
-tolerance. On a miss, the system compares the position at the "safe zone" tolerance, the
-red box. A critical and a hit can each give a different amount of progress, the total
-necessary progress is customizable, and the system makes progress universal to a lobby
+tolerance. On a miss, the system compares the position at the "safe zone" tolerance (the
+red box). Critical and safe hit can each give a different amount of progress, the total
+necessary progress is customizable, and the progress can be configured to be universal to a lobby
 or individual.
 
 [Gist](https://gist.github.com/ZeroYaHero/17463e55a8f0a9be01fcd9c55fe1a8e0) ·
 [Video](https://x.com/ZeroYaHero/status/1735732924182327667)
+
+---
+
+## Wordhole
+
+<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="BugByte logo" width="300">
+
+<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="BugByte screenshot" width="300">
+
+![tools](https://go-skill-icons.vercel.app/api//icons?i=unity,cs,aseprite&theme=dark)
+
+Team project for Game Design course. I pitched the idea as scrabble meets tetris, taking advantage of them both being played on a grid. I did most of the logic programming (though it is a vertical slice). I also did all of the shader work.
 
 ---
 

@@ -2,6 +2,26 @@ theme: jekyll-theme-hacker
 title: ZeroYaHero
 description: Software, tech art, and design portfolio.
 
+# Canonical host. jekyll-seo-tag and jekyll-sitemap need this to build
+# absolute URLs. Without it, canonical tags and the sitemap are wrong.
+url: https://zeroyahero.com
+baseurl: ""
+lang: en-US
+
+# Fed to the Person schema that jekyll-seo-tag writes on the home page.
+author: ZeroYaHero
+logo: /assets/brand/T_ZeroFaceLogo.png
+image: /assets/brand/T_ZeroBanner.png
+
+# "sameAs" in the schema. It tells Google that these accounts and this
+# site are one identity, which is what a brand-name search depends on.
+social:
+  name: ZeroYaHero
+  links:
+    - https://x.com/ZeroYaHero
+    - https://github.com/ZeroYaHero
+    - https://www.linkedin.com/in/ellisfitz/
+
 # Logo shown at the top of every page. Comment out to hide it.
 header_logo: /assets/brand/T_ZeroFaceLogo.png
 
@@ -35,6 +55,9 @@ header_links:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock

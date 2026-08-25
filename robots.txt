@@ -1,0 +1,59 @@
+# https://zeroyahero.com/robots.txt
+# Read the words. Leave the pictures.
+# Text and page content are open to crawlers.
+# Image and video files are not.
+
+Sitemap: https://zeroyahero.com/sitemap.xml
+
+# ---------------------------------------------------------------
+# Every crawler: pages yes, media files no.
+# ---------------------------------------------------------------
+User-agent: *
+Allow: /assets/css/
+Allow: /assets/brand/T_ZeroFaceLogo.png
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.webp$
+Disallow: /*.avif$
+Disallow: /*.svg$
+Disallow: /*.mp4$
+Disallow: /*.webm$
+Disallow: /*.mov$
+# Fallback for old crawlers that ignore the wildcards above.
+Disallow: /assets/
+
+# ---------------------------------------------------------------
+# Image-only crawlers: the logo only, or nothing at all.
+# ---------------------------------------------------------------
+User-agent: Googlebot-Image
+Allow: /assets/brand/T_ZeroFaceLogo.png
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+# ---------------------------------------------------------------
+# Link preview bots: they need the image to draw the card.
+# ---------------------------------------------------------------
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot-LinkExpanding
+Allow: /
+
+User-agent: Discordbot
+Allow: /
