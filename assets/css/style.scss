@@ -169,6 +169,27 @@ section img {
   border-radius: 4px;
 }
 
+// Centered intro block on the home page.
+//
+// Each .row is a block-level flex line. Inside a raw HTML block kramdown adds
+// no <p> wrappers, so without these the images would all share one line.
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 28px;
+}
+
+.intro .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
 // Page background image.
 //
 // CSS cannot fade a background-image on its own, only the whole element. So the

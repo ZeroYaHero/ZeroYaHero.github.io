@@ -12,15 +12,15 @@ seo:
 
 # About Me
 
-<div align="center">
-
+<div class="intro">
   <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
-  
-  <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48"> ![langs](https://skillicons.dev/icons?i=c,cpp,python,cs,java&theme=dark)
-
+  <div class="row">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,java&theme=dark" alt="Languages">
+  </div>
+  <div class="row">
+    <img src="https://go-skill-icons.vercel.app/api//icons?i=unreal,blender,git,github,unity,godot,visualstudio,illustrator&theme=dark" alt="Tools">
+  </div>
 </div>
-
-![tech](https://go-skill-icons.vercel.app/api//icons?i=unreal,blender,git,github,unity,godot,visualstudio,illustrator&theme=dark)
 
 My name is Ellis, but most of my work is under the pseudonym "ZeroYaHero" (though most people just call me "Zero"). In this website you can find work that I have done on my own or with others in personal, academic, and professional settings. Across all of it, you'll find that I have a mixture of artistic and technical abilities, and I take pride in pushing both to their extremes to make
 high-performance tools and good-looking visuals.
