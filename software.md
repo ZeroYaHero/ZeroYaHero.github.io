@@ -37,7 +37,7 @@ This resulted in Kelson having a visualization-optimized gerstner wave simulatio
 CPU ray tracer programmed in C++ with CMake. Contains different
 material types, camera effects, and multithreading.
 
-[GitHub](https://github.com/ZeroYaHero/ZeRayTracer)
+[View the repository](https://github.com/ZeroYaHero/ZeRayTracer)
 
 ---
 
@@ -54,7 +54,7 @@ and the pieces are encoded in 16 bit integers. Bitwise operators rotate the piec
 detect collision, and lock the cells. Unique project structure. It offers a default renderer with Raylib, and
 I intend to add others in the future.
 
-[GitHub](https://github.com/ZeroYaHero/Zetris)
+[View the repository](https://github.com/ZeroYaHero/Zetris)
 
 ---
 
@@ -70,7 +70,21 @@ configurations. The tool combines the configurations with a cartesian product. W
 contract work and I used it there. The source is available, so I do not go into more
 detail here.
 
-[GitHub](https://github.com/ZeroYaHero/UEFNClassGenerator)
+[View the repository](https://github.com/ZeroYaHero/UEFNClassGenerator)
+
+---
+
+## Reload Realistics
+{: #reloadrealistics }
+
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="600"
+
+![tools](https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,illustrator,photoshop)
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+
+Game published in Fortnite's UGC ecosystem in mid 2025 using Unreal Editor for Fortnite (UEFN) inspired by the release of Fortnite Reload a year prior, with the goal of being slightly faster and more arcade-y.
+
+[View the repository](https://github.com/ZeroYaHero/ReloadRealistics)
 
 ---
 
@@ -95,7 +109,7 @@ Full game published myself in Fortnite UGC ecosystem.
 - Logo design
 - Blender key art and renders (logo, animation, and thumbnail)
 
-[GitHub](https://github.com/ZeroYaHero/StormBox)
+[View the repository](https://github.com/ZeroYaHero/StormBox)
 
 ---
 
@@ -110,8 +124,8 @@ Custom noise program in UE/UEFN Verse. Perlin noise inspired it, and it uses Fra
 Brownian Motion (FBM). Verse has no native noise method and no bitwise operators, so the
 program depends completely on `mod`. This made performance a challenge.
 
-[GitHub](https://github.com/ZeroYaHero/VerseNoise) ·
-[Video](https://x.com/ZeroYaHero/status/1765820934768771317)
+[View the repository](https://github.com/ZeroYaHero/VerseNoise) ·
+[View the showcase video](https://x.com/ZeroYaHero/status/1765820934768771317)
 
 ---
 
@@ -141,7 +155,7 @@ Mechanic made in Verse and the UE material graph. The visual component lets play
 modify their own health. This was a commissioned piece for
 [Raider464's most popular game, which hits a peak CCU of around ~8k daily](https://fortnite.gg/island?code=1832-0431-4852).
 
-[Video](https://x.com/ZeroYaHero/status/1915778658246983900)
+[View the showcase video](https://x.com/ZeroYaHero/status/1915778658246983900)
 
 ---
 
@@ -156,7 +170,7 @@ prefer ECS (or just simple composition over inheritance trees). For this project
 trigger volumes and lets the user select positions or source the transforms of entities
 and actors.
 
-[GitHub](https://github.com/ZeroYaHero/VerseVolumes)
+[View the repository](https://github.com/ZeroYaHero/VerseVolumes)
 
 ---
 
@@ -175,8 +189,8 @@ red box). Critical and safe hit can each give a different amount of progress, th
 necessary progress is customizable, and the progress can be configured to be universal to a lobby
 or individual.
 
-[Gist](https://gist.github.com/ZeroYaHero/17463e55a8f0a9be01fcd9c55fe1a8e0) ·
-[Video](https://x.com/ZeroYaHero/status/1735732924182327667)
+[View the gist](https://gist.github.com/ZeroYaHero/17463e55a8f0a9be01fcd9c55fe1a8e0) ·
+[View the showcase video](https://x.com/ZeroYaHero/status/1735732924182327667)
 
 ---
 

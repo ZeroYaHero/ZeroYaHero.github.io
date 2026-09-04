@@ -50,7 +50,7 @@ Logo work for a local art framing company.
 ## ZeroYaHero
 
 <div class="logo-grid">
-  <img src="https://media.discordapp.net/attachments/1074148411261059142/1195179481921495070/title_screen.gif?ex=6a8e4321&is=6a8cf1a1&hm=eb7d196dd7595eaada520e3865e2194dbcc54f61ee3f1e08f085ba6f4578f219&=&width=640&height=216" alt="Zero pixel">
+  <!-- <img src="https://media.discordapp.net/attachments/1074148411261059142/1195179481921495070/title_screen.gif?ex=6a8e4321&is=6a8cf1a1&hm=eb7d196dd7595eaada520e3865e2194dbcc54f61ee3f1e08f085ba6f4578f219&=&width=640&height=216" alt="Zero pixel"> -->
   <img src="{{ '/assets/brand/T_ZeroFaceLogo.png' | relative_url }}" alt="ZeroYaHero face logo">
   <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait">
   <img class="wide" src="{{ '/assets/brand/T_ZeroBanner.png' | relative_url }}" alt="ZeroYaHero banner">

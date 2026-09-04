@@ -3,8 +3,7 @@ layout: default
 title: Tech Art
 permalink: /techart/
 description: >-
-  Shaders, VFX, procedural assets, and renders by ZeroYaHero. Real-time
-  material work for games and animation.
+  Shaders, VFX, procedural assets, and renders by ZeroYaHero.
 ---
 
 {% include nav.html %}
@@ -26,7 +25,7 @@ effect that you see near the checkpoints. It brings a thrill and an adrenaline t
 not felt in a while. At first I intended to make a game that parodies the concept. It
 ended up as a fun warmup instead.
 
-[Video](https://x.com/ZeroYaHero/status/1986094793387315574)
+[View the showcase video](https://x.com/ZeroYaHero/status/1986094793387315574)
 
 ---
 
@@ -42,7 +41,7 @@ read or modify some of the materials that Epic Games uses for their own BR, whic
 understandable. I wanted something similar to build my skills. With pure exploration, and
 much trial and error, I got something pretty close.
 
-[Video](https://x.com/ZeroYaHero/status/1687967828215754753)
+[View the showcase video](https://x.com/ZeroYaHero/status/1687967828215754753)
 
 ---
 
@@ -58,7 +57,7 @@ item. The problem? A different "guy" did the image every time. This was ineffici
 I created a Substance graph that does the process for you and gives you access to some
 parameters.
 
-[Social media post](https://x.com/ZeroYaHero/status/1822694817567998083)
+[View the showcase video](https://x.com/ZeroYaHero/status/1822694817567998083)
 
 ---
 
@@ -76,8 +75,6 @@ I made a gamemode with another content creator called Reload Realistics. I wante
 have distinct and clean branding, so I made two different logos for us and rendered them
 in a scene with clouds in Blender.
 
-[Social media post](https://x.com/Ken_Beans_/status/1891223525136138741?s=20)
-
 ---
 
 ## Reload Realistics: Holographic UI Button Shader
@@ -91,7 +88,7 @@ For **Reload Realistics** I designed these holographic buttons as if they came f
 mode. I think it came out clean. I used Unreal Motion Graphics (UMG) designer, Verse, and
 the Unreal Engine material graph.
 
-[Video](https://x.com/ZeroYaHero/status/1898818115091538321)
+[View a showcase video](https://x.com/ZeroYaHero/status/1898818115091538321)
 
 ---
 
@@ -120,7 +117,7 @@ These shaders use the Unreal material graph with no flipbooks and a "keyframe" l
 setup. I created multiple shader functions to make the process easier. I created the
 vector art in Adobe Illustrator.
 
-[Video](https://x.com/ZeroYaHero/status/1928556416593260632)
+[View the showcase video](https://x.com/ZeroYaHero/status/1928556416593260632)
 
 ---
 
@@ -130,8 +127,7 @@ vector art in Adobe Illustrator.
 
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
-Substance Designer is soooo much fun. I had no reason to mock this up. I wanted to play
-with the node editor.
+Study I did when learning substance designer.
 
-[Reference](https://shineyquiney.artstation.com/projects/aa39z) ·
-[Video](https://x.com/ZeroYaHero/status/1819143137819820472)
+[View the reference](https://shineyquiney.artstation.com/projects/aa39z) ·
+[View the showcase video](https://x.com/ZeroYaHero/status/1819143137819820472)
