@@ -44,25 +44,6 @@ May 2023 -- Present
 
 ---
 
-## Independent Developer
-March 2019 -- June 2022
-
-- Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
-- **250 million plays from 20 million unique player accounts**
-- Highlights:
-    - **Vortex Zone Wars**
-        - Set on the side of a volcano, a competitive PVP gamemode with a fast moving storm to push players closer together. Players are given randomized items to use to their advantage and be the last one standing.
-        - **Featured and contracted by Epic Games to be on the front page of Fortnite in the first Zone Wars Limited Time Mode (LTM)** with three other creators.
-    - **Respawn Zone Wars**
-        - PVP gamemode where players would follow a cyclical storm and fight until a player gets 30 eliminations. First zone wars of its kind.
-    - **2X Zone Wars**
-        - A compact gamemode made to simulate the most intense moments of a Fortnite Battle Royale match with a tournament-style scoring system.
-        - **Featured by Epic Games as a Matchmaking Portal**.
-        - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated).
-- **One of the few founders of Zone Wars genre**
-
----
-
 ## Functional QA Tester @ Activision Central Tech (Temporary)
 Portland, Maine
 
@@ -86,6 +67,25 @@ Feburary 2026 -- May 2026
 - COLIEE-26: built a pipeline that decides whether one Canadian legal case entails another without access to ground truth. Lab placed second in one task. Co-authored the paper.
 - SimpleText: classified scientific papers against a taxonomy by prompting a small open-weight LLM, then embedding each answer and walking down the taxonomy tree by similarity. Co-authored the paper.
 - Self-directed effort to host a local llama.cpp inference server, consolidating scattered per-user model downloads behind one endpoint and offloading to system RAM to fit larger model.
+
+---
+
+## Independent Developer
+March 2019 -- June 2022
+
+- Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
+- **250 million plays from 20 million unique player accounts**
+- Highlights:
+    - **Vortex Zone Wars**
+        - Set on the side of a volcano, a competitive PVP gamemode with a fast moving storm to push players closer together. Players are given randomized items to use to their advantage and be the last one standing.
+        - **Featured and contracted by Epic Games to be on the front page of Fortnite in the first Zone Wars Limited Time Mode (LTM)** with three other creators.
+    - **Respawn Zone Wars**
+        - PVP gamemode where players would follow a cyclical storm and fight until a player gets 30 eliminations. First zone wars of its kind.
+    - **2X Zone Wars**
+        - A compact gamemode made to simulate the most intense moments of a Fortnite Battle Royale match with a tournament-style scoring system.
+        - **Featured by Epic Games as a Matchmaking Portal**.
+        - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated).
+- **One of the few founders of Zone Wars genre**
 
 ---
 
