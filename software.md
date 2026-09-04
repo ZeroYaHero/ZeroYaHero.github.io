@@ -37,7 +37,7 @@ This resulted in Kelson having a visualization-optimized gerstner wave simulatio
 CPU ray tracer programmed in C++ with CMake. Contains different
 material types, camera effects, and multithreading.
 
-[View the repository](https://github.com/ZeroYaHero/ZeRayTracer)
+[View the repository](https://github.com/ZeroYaHero/ZeRayTracer/#zeray-tracer)
 
 ---
 
@@ -70,7 +70,7 @@ configurations. The tool combines the configurations with a cartesian product. W
 contract work and I used it there. The source is available, so I do not go into more
 detail here.
 
-[View the repository](https://github.com/ZeroYaHero/UEFNClassGenerator)
+[View the repository](https://github.com/ZeroYaHero/UEFNClassGenerator/#uefn-class-generator)
 
 ---
 
@@ -84,7 +84,7 @@ detail here.
 
 Game published in Fortnite's UGC ecosystem in mid 2025 using Unreal Editor for Fortnite (UEFN) inspired by the release of Fortnite Reload a year prior, with the goal of being slightly faster and more arcade-y.
 
-[View the repository](https://github.com/ZeroYaHero/ReloadRealistics)
+[View the repository](https://github.com/ZeroYaHero/ReloadRealistics/#reload-realistics)
 
 ---
 
@@ -109,7 +109,7 @@ Full game published myself in Fortnite UGC ecosystem.
 - Logo design
 - Blender key art and renders (logo, animation, and thumbnail)
 
-[View the repository](https://github.com/ZeroYaHero/StormBox)
+[View the repository](https://github.com/ZeroYaHero/StormBox/#storm-box)
 
 ---
 
@@ -124,7 +124,7 @@ Custom noise program in UE/UEFN Verse. Perlin noise inspired it, and it uses Fra
 Brownian Motion (FBM). Verse has no native noise method and no bitwise operators, so the
 program depends completely on `mod`. This made performance a challenge.
 
-[View the repository](https://github.com/ZeroYaHero/VerseNoise) ·
+[View the repository](https://github.com/ZeroYaHero/VerseNoise/#versenoise) ·
 [View the showcase video](https://x.com/ZeroYaHero/status/1765820934768771317)
 
 ---
