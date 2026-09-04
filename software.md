@@ -77,7 +77,7 @@ detail here.
 ## Reload Realistics
 {: #reloadrealistics }
 
-<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="600"
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="600">
 
 ![tools](https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,illustrator,photoshop)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
