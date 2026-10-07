@@ -17,7 +17,7 @@ UI, logos, and branding.
 
 ## **[UNANNOUNCED]** Navigation Menu
 
-<img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu">
+<img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="500">
 
 <img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
 
@@ -33,7 +33,7 @@ I am really happy with how this turned out, and as usual I shoot for "under prom
 
 ## **[UNANNOUNCED]** Cosmetics Shop
 
-<img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop">
+<img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="500">
 
 <img src="https://go-skill-icons.vercel.app/api//icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
@@ -83,7 +83,7 @@ Logo work for a local art framing company.
 
 ## **[WORK-IN-PROGRESS & UNANNOUNCED]** "Clock" Menu & HUD
 
-<img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu">
+<img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu" width="500">
 
 <img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
 

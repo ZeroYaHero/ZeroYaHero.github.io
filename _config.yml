@@ -41,9 +41,6 @@ background_repeat: no-repeat
 # Buttons in the site header. Order is the order shown.
 # icon must match a {% when %} branch in _includes/icon.html
 header_links:
-  - name: X
-    url: https://x.com/ZeroYaHero
-    icon: x
   - name: GitHub
     url: https://github.com/ZeroYaHero
     icon: github
@@ -56,6 +53,9 @@ header_links:
   - name: YouTube
     url: https://www.youtube.com/zeroyahero
     icon: youtube
+  - name: X
+    url: https://x.com/ZeroYaHero
+    icon: x
 
 plugins:
   - jekyll-seo-tag
