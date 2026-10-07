@@ -11,7 +11,41 @@ description: >-
 
 # Design
 
-Logos and branding.
+UI, logos, and branding.
+
+---
+
+## **[UNANNOUNCED]** Navigation Menu
+
+<img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu">
+
+<img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
+
+Navigation menu created within Unreal Engine using Unreal Motion Graphics for a confidential client. 
+
+The buttons are not designed in isolation. The project this is created for utilizes in-world buttons that have a similar style: italic bold text, centered icons, colorful outlines, and a background of shimmering blocks. I took that look and translated it into UI components. 
+
+The icons are created myself in affinity and sent through a pipeline (MaterialMaker texture graph) which generates their signed distance fields (SDFs). Those signed distance fields are used to increase the stroke/outline of the icons on hover. 
+
+I am really happy with how this turned out, and as usual I shoot for "under promise over deliver" so the client is now intending on utilizing the button styles for other projects in the future.
+
+--- 
+
+## **[UNANNOUNCED]** Cosmetics Shop
+
+<img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop">
+
+<img src="https://go-skill-icons.vercel.app/api//icons?i=illustrator,unreal&theme=dark" alt="Tools">
+
+Cosmetics shop system for a confidential client. 
+
+- Made with Unreal Motion Graphics and Verse
+- Leverages Fortnite microtransactions (Verse UnrealEngine.com/Marketplace module). 
+- The cosmetics themselves (at least the initial batch) are created by myself. Example can be seen in Tech Art page.
+- All of the materials are custom made in Unreal Material Graph. 
+- Icons for each page as well as the rarity for each cosmetic type made in illustrator.
+
+Utilizes a hand written code abstraction I call `widget_group` which makes it easy to define data models for widgets with Verse binds. The abstraction is written with the idea of exclusive user interface "pages" in mind. This allows me to make widgets that are traditionally hard to parameterize into something easily customizable. Also prevents the need to constantly allocate resources/memory for new instances of UI.
 
 ---
 
@@ -44,6 +78,22 @@ Logo work for a local residential window washing company.
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
 Logo work for a local art framing company.
+
+---
+
+## **[WORK-IN-PROGRESS & UNANNOUNCED]** "Clock" Menu & HUD
+
+<img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu">
+
+<img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
+
+Clock menu that enables a player to calibrate their local timezone, alarms, timers, and start a stopwatch for a confidential client. The navigation is intended to mimic a clock app on a mobile phone. I had the idea of introducing a world map to roughly match the area of the timezone that a player configures. Eventually, I made it so the world map also transitions between day and night lighting assuming 12 AM is midnight and 12 PM is midday. 
+
+This utilizes the same `widget_group` abstraction as the Cosmetics Shop.
+
+The widgets are split into reusable components with their own Verse binds.
+
+The textures used for this menu were created in MaterialMaker. I took a texture of the world map and generated a signed distance field (SDF) which is used for the coast and waves. Packed in the same texture split between the color channels is world map gradient, light positions, noise, and clouds.
 
 ---
 

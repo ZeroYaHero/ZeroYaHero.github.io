@@ -45,6 +45,28 @@ much trial and error, I got something pretty close.
 
 ---
 
+## [WORK-IN-PROGRESS UNANNOUNCED] Niagara FX Cosmetics "Refreshers and Finishers" Content & Framework
+
+<img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="500">
+
+<img src="https://go-skill-icons.vercel.app/api//icons?i=unreal,blender&theme=dark" alt="Tools">
+
+Cosmetics created using Blender, Unreal Material Graph, and Niagara particles for a confidential client.
+
+After creating a cosmetic I created a framework for new cosmetics and how they can be introduced using Verse and SceneGraph. Simply creating an entity prefab of the cosmetic and setting certain variables (ie: what type) allows it to properly be instantiated in the world during the right event.
+
+List of cosmetics previewed
+- Flames
+- Keycaps
+- Gold coins
+- Emoji swarm
+- Galaxy
+- Grass
+- Stone face
+
+
+---
+
 ## Thumbnail Sparkle and Outline Utility Shader
 
 <img src="{{ '/assets/content/thumbnail/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="500">
