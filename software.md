@@ -10,7 +10,7 @@ description: >-
 
 # Software
 
-Games, tools, and other technically demanding software.
+tools, games, and other technically demanding software.
 
 ---
 
@@ -169,14 +169,12 @@ and actors. -->
 
 ---
 
----
-
 ## Reload Realistics
 {: #reloadrealistics }
 
 <img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="600">
 
-![tools](https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,illustrator,photoshop)
+![tools](https://skillicons.dev/icons?i=unreal&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 
 <!-- Game published in Fortnite's UGC ecosystem in mid 2025 using Unreal Editor for Fortnite (UEFN) inspired by the release of Fortnite Reload a year prior, with the goal of being slightly faster and more arcade-y. -->
@@ -199,7 +197,7 @@ and actors. -->
 
 <img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="600">
 
-![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=light)
+![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
@@ -226,11 +224,11 @@ and actors. -->
 ## Wordhole
 {: #wordhole }
 
-<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="BugByte logo" width="300">
+<img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="Wordholelogo" width="300">
 
-<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="BugByte screenshot" width="600">
+<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="wordhole logo" width="600">
 
-![tools](https://go-skill-icons.vercel.app/api//icons?i=unity,cs,aseprite&theme=dark)
+![tools](https://skillicons.dev/icons?i=unity,cs&theme=dark)
 
 - Team project for Game Design course.
 - Pitched the idea as "scrabble meets tetris" taking advantage of a shared grid.
@@ -246,7 +244,7 @@ and actors. -->
 
 <img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="600">
 
-![GodotBlender](https://skillicons.dev/icons?i=godot,blender&theme=light)
+![GodotBlender](https://skillicons.dev/icons?i=godot&theme=dark)
 
 - Work-in-progress narrative game created in Godot.
 - Features a hand written terminal emulation system.

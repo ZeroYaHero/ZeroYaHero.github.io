@@ -18,7 +18,7 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 
 <img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="500">
 
-<img src="https://go-skill-icons.vercel.app/api//icons?i=unreal,blender&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Tools">
 
 - Cosmetics created using Blender, Unreal Material Graph, and Niagara particles for a confidential client.
 - The effects use a custom framework that makes it easy for the client to add new effects and to configure their spawn point via game event without writing code. Simply creating an entity prefab of the cosmetic and setting certain variables (ie: what type) allows it to properly be instantiated in the world during the right event.
@@ -28,6 +28,8 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 ## Procedural Environment Generation System
 
 <img src="{{ '/assets/projects/stormbox/procenv_demo.gif' | relative_url }}" alt="procedural environment" width="500">
+
+<img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Tools">
 
 - Procedural environment generation system using my own implementation of Perlin noise with fractal brownian motion, VerseNoise.
 - Uses spatial hashing to prevent collission/overalp and to enable foliage spawning.
@@ -84,7 +86,7 @@ modify their own health. This was a commissioned piece for
   <img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderV1.png' | relative_url }}" alt="Reload Realistics first render">
 </div>
 
-![BlenderIllustrator](https://skillicons.dev/icons?i=blender,illustrator&theme=light)
+![BlenderIllustrator](https://skillicons.dev/icons?i=blender,illustrator&theme=dark)
 
 - Game announcement keyart/renders.
 - Icon/logo design done in illustrator, render in Blender, and final edits in Photoshop.
@@ -101,7 +103,8 @@ in a scene with clouds in Blender. -->
 
 ![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
 
-- Post-processing effect and shader influenced by Mario Kart World's new Knockout Tour mode created in Unreal Engine and Material Graph.
+- Post-processing shader effect influenced by Mario Kart World's new Knockout Tour mode.
+- Created in Unreal Engine's Material Graph.
 
 <!-- The new MKW game inspired this. I wanted to see if I could recreate the post-process
 effect that you see near the checkpoints. It brings a thrill and an adrenaline that I had
@@ -136,9 +139,9 @@ much trial and error, I got something pretty close.
 
 <img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="600">
 
-![UnrealIllustrator](https://skillicons.dev/icons?i=unreal,illustrator&theme=light)
+![UnrealIllustrator](https://skillicons.dev/icons?i=unreal,illustrator&theme=dark)
 
-- Promotional assets that use Materials (shaders) in Unreal Engine with a custom "keyframe" setup that normalizes duration to easily modify timing and speed of events.
+- Promotional animated assets that use Materials (shaders) in Unreal Engine with a custom "keyframe" setup that normalizes duration to easily modify timing and speed of events.
 - No flipbooks or sequencer used.
 - Sold to multiple clients within Fortnite's ecosystem.
 
@@ -146,7 +149,7 @@ much trial and error, I got something pretty close.
 setup. I created multiple shader functions to make the process easier. I created the
 vector art in Adobe Illustrator. -->
 
-[View the showcase video](https://x.com/ZeroYaHero/status/1928556416593260632)
+<!-- [View the showcase video](https://x.com/ZeroYaHero/status/1928556416593260632) -->
 
 ---
 
@@ -181,7 +184,7 @@ or individual. -->
 
 <img src="{{ '/assets/content/firedissolve/burn_demo.gif' | relative_url }}" alt="Fire dissolve demo" width="500">
 
-![UnrealBlender](https://skillicons.dev/icons?i=unreal,blender&theme=light)
+![UnrealBlender](https://skillicons.dev/icons?i=unreal,blender&theme=dark)
 <img src="{{ '/assets/icons/s3d.png' | relative_url }}" alt="Substance 3D" width="48">
 
 - Throwaway dissolve animation for a cardboard box (which I modeled in Blender and textured with Substance 3D suite).

@@ -2,7 +2,8 @@
 ---
 
 // Warm paper palette with orange accents.
-$body-background: #f7f1e7;
+// $body-background: #f7f1e7;
+$body-background: #e3dacc;
 $body-foreground: #4b2924;
 $link: #8b351f;
 $accent: #ff6200;
@@ -29,8 +30,9 @@ header {
   border-bottom: 1px dashed $accent;
 }
 
-header h1 {
-  color: $body-foreground;
+header h1,
+#main_content h1 {
+  color: $accent;
 }
 
 header h1::before {
@@ -111,6 +113,7 @@ section img {
 // background-image icon for an inline SVG and lay the row out.
 
 #header-links {
+  grid-column: 2;
   margin-top: 15px;
 }
 
@@ -138,9 +141,10 @@ section img {
 // Header logo, next to the site title on every page.
 
 .header-inner {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
-  gap: 24px;
+  column-gap: 24px;
 }
 
 .header-logo img {
@@ -150,7 +154,12 @@ section img {
 }
 
 .header-text {
+  grid-column: 2;
   min-width: 0;
+}
+
+.header-text h2 {
+  margin-bottom: 0;
 }
 
 // Cancel the theme's outdent now that the "./ " prefix is removed.
@@ -160,9 +169,11 @@ section img {
 
 @media (max-width: 600px) {
   .header-inner {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 12px;
+    column-gap: 12px;
+  }
+
+  #header-links {
+    grid-column: 1 / -1;
   }
 
   .header-logo img {
@@ -189,6 +200,11 @@ section img {
   border-radius: 4px;
 }
 
+// Optional dark backdrop for logo galleries on the Design page.
+.logo-grid-dark img {
+  background: darken($body-background, 65%);
+}
+
 .logo-grid img.wide {
   width: 320px;
 }
@@ -212,23 +228,33 @@ section img {
 
 // Centered intro block on the home page.
 //
-// Each .row is a block-level flex line. Inside a raw HTML block kramdown adds
-// no <p> wrappers, so without these the images would all share one line.
+// Individual icons share one size across all three rows. Shrink them together
+// on narrow screens so the six-icon rows stay on a single line.
 
 .intro {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 14px;
-  margin-bottom: 28px;
+  margin-bottom: 14px;
 }
 
-.intro .row {
-  display: flex;
-  flex-wrap: wrap;
+.intros {
+  --skill-icon-size: clamp(16px, calc((90vw - 40px) / 6), 48px);
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: var(--skill-icon-size);
   align-items: center;
   justify-content: center;
   gap: 8px;
+  margin-bottom: 14px;
+}
+
+.intros img {
+  display: block;
+  width: var(--skill-icon-size);
+  height: var(--skill-icon-size);
+  object-fit: contain;
 }
 
 // Page background image.
@@ -250,5 +276,5 @@ body::before {
   background-size: var(--bg-size, cover);
   background-repeat: var(--bg-repeat, no-repeat);
   background-position: var(--bg-position, center center);
-  opacity: var(--bg-opacity, 0.12);
+  opacity: var(--bg-opacity, 0.2);
 }

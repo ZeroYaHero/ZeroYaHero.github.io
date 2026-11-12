@@ -19,9 +19,9 @@ UI, logos, and branding.
 
 <img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="500">
 
-<img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
+<img src="https://https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
-- Client navigation menu constructed and animated with Unreal Motion Graphics and Verse.
+- Client navigation menu created and animated with Unreal Material Graph, Unreal Motion Graphics, and Verse.
 - Icons created in Affinity Designer and converted to signed distance fields (SDF) with Material Maker.
 - The design took inspiration from in-world buttons that the client was using across their project. I took up the challenge to continue that design language in screen space.
 
@@ -35,11 +35,13 @@ I am really happy with how this turned out, and as usual I shoot for "under prom
 
 --- 
 
-## Cosmetics Shop
+## Cosmetics Shop Menu
 
 <img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="500">
 
-<img src="https://go-skill-icons.vercel.app/api//icons?i=illustrator,unreal&theme=dark" alt="Tools">
+<img src="https://https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
+
+<!-- <img src="https://go-skill-icons.vercel.app/api//icons?i=illustrator,unreal&theme=dark" alt="Tools"> -->
 
 - Client cosmetics shop menu made with Unreal Material Graph editor, Unreal Motion Graphics, and Verse.
 - Icons created with Adobe Illustrator.
@@ -60,7 +62,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ## A & M Home Services
 
-<div class="logo-grid">
+<div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/amhome/MainLogoW.png' | relative_url }}" alt="A & M Home Services main logo">
   <!-- <img src="{{ '/assets/design/amhome/MainLogoCircleW.png' | relative_url }}" alt="A & M Home Services circle logo"> -->
   <img src="{{ '/assets/design/amhome/MainLogoTextW.png' | relative_url }}" alt="A & M Home Services logo with text">
@@ -70,7 +72,9 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
   <!-- <img class="wide" src="{{ '/assets/design/amhome/CircleLogoWideTextW.png' | relative_url }}" alt="A & M Home Services wide circle logo"> -->
 </div>
 
-![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
+<!-- ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light) -->
+
+<img src="https://https://skillicons.dev/icons?i=illustrator&theme=dark" alt="Tools">
 
 - Logo work for a residential window washing company.
 
@@ -78,7 +82,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ## Zero Station Framing
 
-<div class="logo-grid">
+<div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/zsframe/ZSOrangeFinal.png' | relative_url }}" alt="ZS main logo color and text">
   <img src="{{ '/assets/design/zsframe/ZSWhiteAlpha.png' | relative_url }}" alt="ZS main logo">
   <img src="{{ '/assets/design/zsframe/ZSWhiteFramingAlpha.png' | relative_url }}" alt="ZS main logo and text">
@@ -112,7 +116,7 @@ The textures used for this menu were created in MaterialMaker. I took a texture 
 
 ## ZeroYaHero
 
-<div class="logo-grid">
+<div class="logo-grid logo-grid-dark">
   <!-- <img src="https://media.discordapp.net/attachments/1074148411261059142/1195179481921495070/title_screen.gif?ex=6a8e4321&is=6a8cf1a1&hm=eb7d196dd7595eaada520e3865e2194dbcc54f61ee3f1e08f085ba6f4578f219&=&width=640&height=216" alt="Zero pixel"> -->
   <img src="{{ '/assets/brand/T_ZeroFaceLogo.png' | relative_url }}" alt="ZeroYaHero face logo">
   <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait">
@@ -146,7 +150,7 @@ the Unreal Engine material graph. -->
 
 <!-- <img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box key art" width="384"> -->
 
-<div class="logo-grid">
+<div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/stormbox/T_SB_Logo_V0.png' | relative_url }}" alt="logov1">
   <img src="{{ '/assets/design/stormbox/T_SB_Logo_V1.png' | relative_url }}" alt="logov2">
   <img src="{{ '/assets/design/stormbox/T_SB_LogoOutline.png' | relative_url }}" alt="logofinal">
@@ -160,7 +164,7 @@ I made the logos for my game [Storm Box]({{ '/software/#stormbox' | relative_url
 
 ## Reload Realistics
 
-<div class="logo-grid">
+<div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/reloadrealistics/T_ReloadLogo.png' | relative_url }}" alt="Reload Realistics logo">
   <img src="{{ '/assets/design/reloadrealistics/T_RR.png' | relative_url }}" alt="Reload Realistics monogram">
 </div>
@@ -176,7 +180,7 @@ have distinct and clean branding, so I made two different logos that mirrored a 
 
 ## JobBeaconMaine
 
-<div class="logo-grid">
+<div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/jobbeacon/T_Circle.png' | relative_url }}" alt="JobBeaconMaine circle logo">
   <img src="{{ '/assets/design/jobbeacon/T_Square.png' | relative_url }}" alt="JobBeaconMaine square logo">
   <img class="wide" src="{{ '/assets/design/jobbeacon/T_HeaderElongatedText.png' | relative_url }}" alt="JobBeaconMaine wide header with text">
