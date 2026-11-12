@@ -15,29 +15,38 @@ UI, logos, and branding.
 
 ---
 
-## **[UNANNOUNCED]** Navigation Menu
+## Navigation Menu
 
 <img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="500">
 
 <img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
 
-Navigation menu created within Unreal Engine using Unreal Motion Graphics for a confidential client. 
+- Client navigation menu constructed and animated with Unreal Motion Graphics and Verse.
+- Icons created in Affinity Designer and converted to signed distance fields (SDF) with Material Maker.
+- The design took inspiration from in-world buttons that the client was using across their project. I took up the challenge to continue that design language in screen space.
+
+<!-- Navigation menu created within Unreal Engine using Unreal Motion Graphics for a confidential client. 
 
 The buttons are not designed in isolation. The project this is created for utilizes in-world buttons that have a similar style: italic bold text, centered icons, colorful outlines, and a background of shimmering blocks. I took that look and translated it into UI components. 
 
 The icons are created myself in affinity and sent through a pipeline (MaterialMaker texture graph) which generates their signed distance fields (SDFs). Those signed distance fields are used to increase the stroke/outline of the icons on hover. 
 
-I am really happy with how this turned out, and as usual I shoot for "under promise over deliver" so the client is now intending on utilizing the button styles for other projects in the future.
+I am really happy with how this turned out, and as usual I shoot for "under promise over deliver" so the client is now intending on utilizing the button styles for other projects in the future. -->
 
 --- 
 
-## **[UNANNOUNCED]** Cosmetics Shop
+## Cosmetics Shop
 
 <img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="500">
 
 <img src="https://go-skill-icons.vercel.app/api//icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
-Cosmetics shop system for a confidential client. 
+- Client cosmetics shop menu made with Unreal Material Graph editor, Unreal Motion Graphics, and Verse.
+- Icons created with Adobe Illustrator.
+- Leverages Fortnite microtransactions (`UnrealEngine.com/Marketplace` module).
+- Utilizes hand written Verse UI abstraction library `widget_groups`. Makes it easy to force UI pages to be exclusive with one another as well as reuse pages to take different payload forms of data types.
+
+<!-- Cosmetics shop system for a confidential client. 
 
 - Made with Unreal Motion Graphics and Verse
 - Leverages Fortnite microtransactions (Verse UnrealEngine.com/Marketplace module). 
@@ -45,7 +54,7 @@ Cosmetics shop system for a confidential client.
 - All of the materials are custom made in Unreal Material Graph. 
 - Icons for each page as well as the rarity for each cosmetic type made in illustrator.
 
-Utilizes a hand written code abstraction I call `widget_group` which makes it easy to define data models for widgets with Verse binds. The abstraction is written with the idea of exclusive user interface "pages" in mind. This allows me to make widgets that are traditionally hard to parameterize into something easily customizable. Also prevents the need to constantly allocate resources/memory for new instances of UI.
+Utilizes a hand written code abstraction I call `widget_group` which makes it easy to define data models for widgets with Verse binds. The abstraction is written with the idea of exclusive user interface "pages" in mind. This allows me to make widgets that are traditionally hard to parameterize into something easily customizable. Also prevents the need to constantly allocate resources/memory for new instances of UI. -->
 
 ---
 
@@ -63,7 +72,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Logo work for a local residential window washing company.
+- Logo work for a residential window washing company.
 
 ---
 
@@ -77,23 +86,27 @@ Logo work for a local residential window washing company.
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Logo work for a local art framing company.
+- Logo work for an art framing company.
 
 ---
 
-## **[WORK-IN-PROGRESS & UNANNOUNCED]** "Clock" Menu & HUD
+## Clock Menu & HUD
 
 <img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu" width="500">
 
 <img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
 
-Clock menu that enables a player to calibrate their local timezone, alarms, timers, and start a stopwatch for a confidential client. The navigation is intended to mimic a clock app on a mobile phone. I had the idea of introducing a world map to roughly match the area of the timezone that a player configures. Eventually, I made it so the world map also transitions between day and night lighting assuming 12 AM is midnight and 12 PM is midday. 
+- Client "clock" menu which can calibrate local timezone, configure alarms, timers, and start a stopwatch.
+- Made in Unreal Material Graph, Unreal Motion Graphics, and Verse. 
+- Utilizes the same hand written UI abstraction library `widget_groups` as listed with the cosmetics shop menu.
+
+<!-- Clock menu that enables a player to calibrate their local timezone, alarms, timers, and start a stopwatch for a confidential client. The navigation is intended to mimic a clock app on a mobile phone. I had the idea of introducing a world map to roughly match the area of the timezone that a player configures. Eventually, I made it so the world map also transitions between day and night lighting assuming 12 AM is midnight and 12 PM is midday. 
 
 This utilizes the same `widget_group` abstraction as the Cosmetics Shop.
 
 The widgets are split into reusable components with their own Verse binds.
 
-The textures used for this menu were created in MaterialMaker. I took a texture of the world map and generated a signed distance field (SDF) which is used for the coast and waves. Packed in the same texture split between the color channels is world map gradient, light positions, noise, and clouds.
+The textures used for this menu were created in MaterialMaker. I took a texture of the world map and generated a signed distance field (SDF) which is used for the coast and waves. Packed in the same texture split between the color channels is world map gradient, light positions, noise, and clouds. -->
 
 ---
 
@@ -108,7 +121,24 @@ The textures used for this menu were created in MaterialMaker. I took a texture 
 
 ![tools](https://go-skill-icons.vercel.app/api//icons?i=illustrator,affinity,aseprite&theme=dark)
 
-All ZeroYaHero logos or branding is done by myself.
+- ZeroYaHero (Zero) logos, icons, character drawings, and overall branding is done through variety of creative programs like Procreate on iPad, Blender, Illustrator, and more.
+
+---
+
+## Reload Realistics: Holographic UI Button Shader
+
+<img src="{{ '/assets/content/holobuttons/holo_buttons.gif' | relative_url }}" alt="Holographic buttons" width="600">
+
+![Unreal](https://skillicons.dev/icons?i=unreal&theme=light)
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+
+- UI holographic Materials created in Unreal Engine and put in menus with Unreal Motion Graphics.
+
+<!-- For **Reload Realistics** I designed these holographic buttons as if they came from the
+mode. I think it came out clean. I used Unreal Motion Graphics (UMG) designer, Verse, and
+the Unreal Engine material graph. -->
+
+<!-- [View a showcase video](https://x.com/ZeroYaHero/status/1898818115091538321) -->
 
 ---
 

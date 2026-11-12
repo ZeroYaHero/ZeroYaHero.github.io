@@ -1,31 +1,73 @@
 ---
 ---
 
-// Amber CRT phosphor. This replaces the lime green (#b5e853) of the theme.
-// Change this one value to recolor the whole site.
+// Warm paper palette with orange accents.
+$body-background: #f7f1e7;
+$body-foreground: #4b2924;
+$link: #8b351f;
 $accent: #ff6200;
 
-// The theme declares $header with !default, so this value wins.
-$header: $accent;
+// Set the theme's defaults before importing it.
+$header: $body-foreground;
+$blockquote-color: $body-foreground;
+$blockquote-border: rgba($body-foreground, 0.35);
 
 @import "{{ site.theme }}";
+
+// Replace the theme's tiled noise image with a solid paper background.
+// The separate, configurable background artwork remains on body::before.
+body {
+  background: $body-background;
+  color: $body-foreground;
+}
 
 // The theme hardcodes #b5e853 in the rules below, so $header does not reach
 // them. Each rule repeats a theme rule and only changes the color.
 
 header {
+  background: transparent;
   border-bottom: 1px dashed $accent;
 }
 
 header h1 {
-  color: $accent;
+  color: $body-foreground;
+}
+
+header h1::before {
+  content: none;
+}
+
+header h2,
+#main_content h6 {
+  color: $body-foreground;
 }
 
 header h1,
 h1, h2, h3, h4, h5, h6 {
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba($accent, 0.1),
-               0 0 10px rgba($accent, 0.1);
+  text-shadow: none;
+}
+
+a {
+  color: $link;
+  text-shadow: none;
+}
+
+a:hover {
+  color: darken($link, 10%);
+}
+
+.btn {
+  background: rgba($body-foreground, 0.04);
+  border: 2px solid rgba($body-foreground, 0.35);
+  color: $body-foreground;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+.btn:hover {
+  background: rgba($body-foreground, 0.1);
+  border-color: $link;
+  color: $body-foreground;
 }
 
 pre {
@@ -56,7 +98,7 @@ ul li::marker {
 .site-nav {
   margin-bottom: 2em;
   padding-bottom: 0.6em;
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+  border-bottom: 1px dashed rgba($body-foreground, 0.2);
   font-weight: bold;
 }
 
@@ -111,8 +153,7 @@ section img {
   min-width: 0;
 }
 
-// The theme pulls the title 40px left to outdent the "./ " prefix. That fights
-// the flex row, so cancel it.
+// Cancel the theme's outdent now that the "./ " prefix is removed.
 .header-text h1 {
   margin-left: 0;
 }
@@ -143,8 +184,8 @@ section img {
   width: 200px;
   height: auto;
   padding: 10px;
-  background: rgba(255, 255, 255, 0.03);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba($body-foreground, 0.03);
+  border: 1px solid rgba($body-foreground, 0.15);
   border-radius: 4px;
 }
 

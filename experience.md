@@ -17,6 +17,17 @@ description: >-
 
 ---
 
+## UEFN Programmer & Technical Artist Contractor
+May 2023 -- Present
+
+- Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
+- Programming responsive user interface's or intricate gameplay systems with Verse and SceneGraph.
+- Leveraging Unreal Engine tools such as Material Graph, Motion Graphics, Niagara, and more.
+- Automating tedious tasks with Python scripts and other self-programmed external tools.
+- Creating assets with Blender, Adobe, MaterialMaker, etc.
+
+---
+
 ## Software Engineer Intern (VR Visualization) @ Kelson Marine Co.
 {: #kelson }
 
@@ -33,14 +44,15 @@ May 2026 -- August 2026
 
 ---
 
-## UEFN Programmer & Technical Artist Contractor
-May 2023 -- Present
+## Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
+Portland, Maine
 
-- Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
-- Programming responsive user interface's or intricate gameplay systems with Verse and SceneGraph.
-- Leveraging Unreal Engine tools such as Material Graph, Motion Graphics, Niagara, and more.
-- Automating tedious tasks with Python scripts and other self-programmed external tools.
-- Creating assets with Blender, Adobe, MaterialMaker, etc.
+Feburary 2026 -- May 2026
+
+- Researched and implemented information retrieval and NLP methods in legal and scientific domains.
+- COLIEE-26: built a pipeline that decides whether one Canadian legal case entails another without access to ground truth. Lab placed second in one task. Co-authored the paper.
+- SimpleText: classified scientific papers against a taxonomy by prompting a small open-weight LLM, then embedding each answer and walking down the taxonomy tree by similarity. Co-authored the paper.
+- Self-directed effort to host a local llama.cpp inference server, consolidating scattered per-user model downloads behind one endpoint and offloading to system RAM to fit larger model.
 
 ---
 
@@ -55,18 +67,6 @@ June 2022 -- August 2022
 - Debugged in C++ with Visual Studio and exercised the engine through the level editor.
 - Used Perforce/P4V for version control.
 - Filed defects and test reports in JIRA.
-
----
-
-## Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
-Portland, Maine
-
-Feburary 2026 -- May 2026
-
-- Researched and implemented information retrieval and NLP methods in legal and scientific domains.
-- COLIEE-26: built a pipeline that decides whether one Canadian legal case entails another without access to ground truth. Lab placed second in one task. Co-authored the paper.
-- SimpleText: classified scientific papers against a taxonomy by prompting a small open-weight LLM, then embedding each answer and walking down the taxonomy tree by similarity. Co-authored the paper.
-- Self-directed effort to host a local llama.cpp inference server, consolidating scattered per-user model downloads behind one endpoint and offloading to system RAM to fit larger model.
 
 ---
 
