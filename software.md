@@ -21,11 +21,11 @@ tools, games, and other technically demanding software.
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,cs,python,unity&theme=dark)
 
 - Improved wave visualization and simulation for Kelson's VR demo.
-- Project initiated by myself after pitching a few ideas to create big impact.
-- Learned and applied relevant fundamentals of oceanography.
 <!-- - Solution introduced horizontal vertex displacement (non-linear waves). -->
 - Replaced sum-of-sin waves C++ simulation mode with a FFT-based one. Tested with Catch2 and profiled with Google Benchmark.
 - Improved editor framerate by 60%.
+- Project initiated by myself after pitching a few ideas to create big impact.
+- Learned and applied relevant fundamentals of oceanography.
 <!-- - Applied ocean-engineer-advised modifications and came up with novel solutions for computing below surface velocities and accelerations. -->
 
 <a class="btn" href="https://www.linkedin.com/feed/update/urn:li:activity:7495546694785249295/">
@@ -71,7 +71,7 @@ configurations. The tool combines the configurations with a cartesian product. W
 contract work and I used it there. The source is available, so I do not go into more
 detail here. -->
 
-- Deterministic tool that generates Verse code and UEFN devices (UE actor proprerties) from a set of configurations via cartesian product.
+- Deterministic tool that generates Verse code and UEFN devices (UE actor properties) from a set of configurations via cartesian product.
 - Created to complete work for client.
 - GUI put together in Godot due to UI toolkit (controls) being similar to Unreal's Slate widget containers.
 
@@ -89,8 +89,7 @@ detail here. -->
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark)
 
-- Software ray tracer programmed in C++.
-- CMake build system.
+- Software ray tracer programmed in C++ with a CMake build system.
 - Different material types, camera effects, and multithreading.
 
 <!-- CPU ray tracer programmed in C++ with CMake. Contains different material types, camera effects, and multithreading. -->
