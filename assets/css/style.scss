@@ -111,6 +111,34 @@ section img {
   height: auto;
 }
 
+// Center project media without changing headings, descriptions, or lists.
+.project-gallery img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Markdown tool strips and their extra icons can share an image-only paragraph.
+.project-gallery p:has(> img) {
+  text-align: center;
+}
+
+.project-gallery p > img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.project-gallery .logo-grid {
+  justify-content: center;
+}
+
+.project-gallery .logo-grid img {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 // Social buttons. The theme styles .btn already, so these rules only swap the
 // background-image icon for an inline SVG and lay the row out.
 
@@ -232,7 +260,45 @@ section img {
   border-radius: 4px;
 }
 
-// Centered intro block on the home page.
+// Home portrait and tool rows share a row, with social links beneath them.
+
+.home-intro {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  align-items: center;
+  gap: 28px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.home-portrait {
+  display: block;
+  width: 200px;
+}
+
+.home-tools {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+
+.home-tools img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 520px) {
+  .home-intro {
+    grid-template-columns: minmax(0, 1fr);
+    justify-items: center;
+    gap: 20px;
+  }
+}
+
+// Centered intro blocks.
 //
 // Individual icons share one size across all three rows. Shrink them together
 // on narrow screens so the six-icon rows stay on a single line.

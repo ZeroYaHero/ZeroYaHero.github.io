@@ -10,22 +10,13 @@ seo:
 
 # **Home**
 
-<div class="intro">
-  <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
-</div>
-
-<div class="intro">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,java,typescript&theme=dark" alt="C" height="48">
-</div>
-
-
-<div class="intro">
-    <img src="https://skillicons.dev/icons?i=blender,unreal,unity,godot,illustrator&theme=dark" alt="Blender"  height="48">
-</div>
-
-
-<div class="intro">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" alt="Git"  height="48">
+<div class="home-intro">
+  <img class="home-portrait" src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
+  <div class="home-tools">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,java,typescript&theme=dark" alt="C, C++, Python, C#, Java, TypeScript" height="48">
+    <img src="https://skillicons.dev/icons?i=blender,unreal,unity,godot,illustrator&theme=dark" alt="Blender, Unreal Engine, Unity, Godot, Illustrator" height="48">
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" alt="Git, GitHub, Visual Studio, VS Code" height="48">
+  </div>
 </div>
 
 <!-- My name is Ellis Fitzgerald. I am a recent Computer Science graduate who has spent majority of my professional career doing business under the name ZeroYaHero. It started with my YouTube channel and publishing games independently, which then evolved into freelance and contract work in Unreal Engine and Verse as a technical artist. 

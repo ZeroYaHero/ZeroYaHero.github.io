@@ -45,7 +45,7 @@
     </header>
 
     <div class="container">
-      <section id="main_content">
+      <section id="main_content"{% if page.center_project_media %} class="project-gallery"{% endif %}>
         {{ content }}
       </section>
       {% unless page.social_links_in_content %}

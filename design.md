@@ -1,5 +1,6 @@
 ---
 layout: default
+center_project_media: true
 title: Design
 permalink: /design/
 description: >-
