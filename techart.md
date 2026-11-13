@@ -8,7 +8,7 @@ description: >-
 
 {% include nav.html %}
 
-# Tech Art
+# **Tech Art**
 
 Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural texture node editors (Substance Designer, Material Maker, etc)
 
@@ -32,8 +32,8 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Tools">
 
 - Procedural environment generation system using my own implementation of Perlin noise with fractal brownian motion, VerseNoise.
-- Uses spatial hashing to prevent collission/overalp and to enable foliage spawning.
-- Enables the user to easily add a terrain or foliage asset into the pool of prefabs.
+- Uses spatial hashing to prevent collisions and enable foliage spawning.
+- Empowers the user to easily add a terrain or foliage asset into the pool of prefabs.
 - Biomes use a combination of VerseNoise and a voroni diagram for temperature and humidity values.
 - Parameterized to easily change the density of land as well as the probablity of all asset types or biomes.
 

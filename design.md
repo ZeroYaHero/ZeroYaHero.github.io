@@ -9,7 +9,7 @@ description: >-
 
 {% include nav.html %}
 
-# Design
+# **Design**
 
 UI, logos, and branding.
 
@@ -98,7 +98,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 <img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu" width="500">
 
-<img src="https://go-skill-icons.vercel.app/api//icons?i=affinity,unreal&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=unreal,illustrator&theme=light" alt="Tools">
 
 - Client "clock" menu which can calibrate local timezone, configure alarms, timers, and start a stopwatch.
 - Made in Unreal Material Graph, Unreal Motion Graphics, and Verse. 
@@ -123,7 +123,7 @@ The textures used for this menu were created in MaterialMaker. I took a texture 
   <img class="wide" src="{{ '/assets/brand/T_ZeroBanner.png' | relative_url }}" alt="ZeroYaHero banner">
 </div>
 
-![tools](https://go-skill-icons.vercel.app/api//icons?i=illustrator,affinity,aseprite&theme=dark)
+<img src="https://skillicons.dev/icons?i=illustrator,blender&theme=light" alt="Tools">
 
 - ZeroYaHero (Zero) logos, icons, character drawings, and overall branding is done through variety of creative programs like Procreate on iPad, Blender, Illustrator, and more.
 

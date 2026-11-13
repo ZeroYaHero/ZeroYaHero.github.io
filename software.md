@@ -8,7 +8,7 @@ description: >-
 
 {% include nav.html %}
 
-# Software
+# **Software**
 
 tools, games, and other technically demanding software.
 
@@ -22,10 +22,11 @@ tools, games, and other technically demanding software.
 
 - Improved wave visualization and simulation for Kelson's VR demo.
 - Project initiated by myself after pitching a few ideas to create big impact.
-- Learned relevant fundamentals of oceanography math and physics.
-- Solution introduced horizontal vertex displacement (non-linear waves).
+- Learned and applied relevant fundamentals of oceanography.
+<!-- - Solution introduced horizontal vertex displacement (non-linear waves). -->
 - Replaced sum-of-sin waves C++ simulation mode with a FFT-based one. Tested with Catch2 and profiled with Google Benchmark.
-- Applied ocean-engineer-advised modifications and came up with novel solutions for computing below surface velocities and accelerations.
+- Improved editor framerate by 60%.
+<!-- - Applied ocean-engineer-advised modifications and came up with novel solutions for computing below surface velocities and accelerations. -->
 
 <a class="btn" href="https://www.linkedin.com/feed/update/urn:li:activity:7495546694785249295/">
   <span class="icon">{% include icon.html name="linkedin" %}</span>LinkedIn Post
@@ -46,8 +47,9 @@ tools, games, and other technically demanding software.
 - VSCode extension for Verse and UEFN.
 - Parses local game archive files with CUE4Parse C# ASP.NET core backend.
 - Extracts textures of Fortnite item entity assets.
-- Uses Levenshtein string distance to compare parsed assets with hovered Verse tokens.
+- Utilizes Levenshtein string distance to compare parsed assets with hovered Verse tokens.
 - Extension requests icons for a given asset which the backend fetches from a cache or exports on demand.
+- Leverages GitHub workflows to automatically build and deploy.
 
 <a class="btn" href="https://github.com/ZeroYaHero/VerseFNItemPreview">
   <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
@@ -57,7 +59,7 @@ tools, games, and other technically demanding software.
 
 ---
 
-## UEFN Class Generator
+## UEFNClassGenerator
 
 <img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="600">
 
@@ -146,7 +148,7 @@ program depends completely on `mod`. This made performance a challenge. -->
 
 ---
 
-## VerseVolumes: OOP Trigger Volume Tool
+## VerseVolumes
 
 <img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="450">
 
@@ -154,7 +156,8 @@ program depends completely on `mod`. This made performance a challenge. -->
 
 - Verse library created for a client.
 - Alternative lightweight trigger volume implementation.
-- Features different shapes with different ways to set boundaries and positioning.
+- Features different shapes with variety of options to set boundaries and positioning.
+- Implemented with an object oriented inheritance hierarchy.
 
 <a class="btn" href="https://github.com/ZeroYaHero/VerseVolumes">
   <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
@@ -206,18 +209,9 @@ and actors. -->
 - Randomized storm and procedural environment generation systems.
 - Modeled and textured lobby environment with Blender and Substance 3D suite.
 
-  <!-- <img src="{{ '/assets/projects/stormbox/procenv_demo.gif' | relative_url }}" alt="Procedural environment demo" width="350"> -->
-<!-- - UE materials (storm, UI, landscape)
-- Substance 3D materials (lobby walls, floor, and ceiling, cardboard box, platform)
-- Blender models and rigs (cardboard box, platform, terrain prefabs, lobby)
-- Logo design
-- Blender key art and renders (logo, animation, and thumbnail) -->
-
 <a class="btn" href="https://github.com/ZeroYaHero/StormBox/#storm-box">
   <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
 </a>
-
-<!-- [View the repository](https://github.com/ZeroYaHero/StormBox/#storm-box) -->
 
 ---
 

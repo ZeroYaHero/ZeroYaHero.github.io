@@ -9,7 +9,7 @@ description: >-
 
 {% include nav.html %}
 
-# Experience
+# **Experience**
 
 ## Education
 - B.S. in Computer Science from University of Southern Maine
