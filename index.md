@@ -9,8 +9,6 @@ seo:
 
 {% include nav.html %}
 
-# About Me
-
 <div class="intro">
   <img src="{{ '/assets/brand/T_ZeroPortrait.png' | relative_url }}" alt="ZeroYaHero portrait" width="200">
 </div>
@@ -35,12 +33,15 @@ This website displays my personal, academic, and professional projects and achie
 
 I am a recent Computer Science graduate from the University of Southern Maine. My career started with tutorials on YouTube under the "ZeroYaHero" name, and has since evolved into freelance, contract, and consulting work for UEFN (soon to be UE6) and Verse under the same name. 
 
-I care deeply about the problem domain. I take initiative to learn whats necessary to create meaningful solutions. I have a mixture of artistic and technical abilities, and I take pride in pushing both to their extremes for high-performance tools and good-looking visuals that are easily configurable. This has allowed me to achieve the following:
+I care deeply about the problem domain. I take initiative to learn whats necessary to create meaningful solutions. I have a mixture of artistic and technical abilities, and I take pride in pushing both to their extremes for high-performance tools and good-looking visuals that are easily configurable. This has allowed me to achieve the following and more:
 - Independently publish games that have been played by over 20 million unique users.
 - Work in and collaborate with AAA studios.
 - Conduct and publish academic research on AI.
+- ...
 
 If any of this interests you I invite you to take a look around and maybe reach out. Thank you for your time.
+
+[zeroyaheroofficial@gmail.com](mailto:zeroyaheroofficial@gmail.com)
 
  <!-- It was my gamertag that I gave myself after "Zero" was (unsurprisingly) taken. I thought that by making my name rhyme it would be more memorable. The "Ya" is supposed to be "Your", like, "Zero Your Hero" -->
 
@@ -48,11 +49,5 @@ If any of this interests you I invite you to take a look around and maybe reach 
 - [Tech Art]({{ '/techart/' | relative_url }}) — Shaders, assets, and renders.
 - [Design]({{ '/design/' | relative_url }}) — Logos and branding.
 - [Experience]({{ '/experience/' | relative_url }}) — My experiences. -->
-
----
-
-## Contact
-
-[zeroyaheroofficial@gmail.com](mailto:zeroyaheroofficial@gmail.com)
 
 <img src="{{ '/assets/brand/T_ZeroBanner.png' | relative_url }}" alt="ZeroYaHero">

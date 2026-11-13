@@ -19,7 +19,7 @@ UI, logos, and branding.
 
 <img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="500">
 
-<img src="https://https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
 - Client navigation menu created and animated with Unreal Material Graph, Unreal Motion Graphics, and Verse.
 - Icons created in Affinity Designer and converted to signed distance fields (SDF) with Material Maker.
@@ -39,7 +39,7 @@ I am really happy with how this turned out, and as usual I shoot for "under prom
 
 <img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="500">
 
-<img src="https://https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
 <!-- <img src="https://go-skill-icons.vercel.app/api//icons?i=illustrator,unreal&theme=dark" alt="Tools"> -->
 
@@ -74,7 +74,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 <!-- ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light) -->
 
-<img src="https://https://skillicons.dev/icons?i=illustrator&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=illustrator&theme=dark" alt="Tools">
 
 - Logo work for a residential window washing company.
 
@@ -158,7 +158,7 @@ the Unreal Engine material graph. -->
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-I made the logos for my game [Storm Box]({{ '/software/#stormbox' | relative_url }}). Here is a few iterations before ending on the final.
+- Evolution of the logo for [Storm Box]({{ '/software/#stormbox' | relative_url }}).
 
 ---
 
@@ -189,17 +189,19 @@ have distinct and clean branding, so I made two different logos that mirrored a 
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Databases course full-stack web application team project. I designed my teams logos and branding.\\
+- Databases course full-stack web application team project. I designed my teams logos and branding.
 
 ---
 
 ## BugByte
 
-<img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" width="500" alt="bugbyte logo">
+<div class="logo-grid logo-grid-dark">
+  <img class="wide" src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo">
+</div>
 
 ![Illustrator](https://skillicons.dev/icons?i=illustrator&theme=light)
 
-Logo created for my Godot based indie game project.
+- Logo created for my Godot based indie game project.
 
 ---
 
@@ -209,7 +211,7 @@ Logo created for my Godot based indie game project.
 
 ![tools](https://go-skill-icons.vercel.app/api//icons?i=aseprite&theme=dark)
 
-Logo I made for [Game Design course team project]({{ '/software/#wordhole' | relative_url }}).
+- Logo I made for [Game Design course team project]({{ '/software/#wordhole' | relative_url }}).
 
 ---
 
@@ -217,4 +219,4 @@ Logo I made for [Game Design course team project]({{ '/software/#wordhole' | rel
 
 <img src="{{ '/assets/design/qte/T_QTEAssets.png' | relative_url }}" width="600" alt="qte art">
 
-Custom art assets created in Procreate used for the [QTE/Skill Check I created in UEFN with Verse]({{ '/software/#qte' | relative_url }}).
+- Custom art assets created in Procreate used for the [QTE/Skill Check I created in UEFN with Verse]({{ '/software/#qte' | relative_url }}).

@@ -2,11 +2,11 @@
 ---
 
 // Warm paper palette with orange accents.
-// $body-background: #f7f1e7;
-$body-background: #e3dacc;
+// Original #f7f1e7 with each RGB channel reduced by 10%.
+$body-background: #ded9d0;
 $body-foreground: #4b2924;
 $link: #8b351f;
-$accent: #ff6200;
+$accent: #f54f02;
 
 // Set the theme's defaults before importing it.
 $header: $body-foreground;
@@ -202,7 +202,7 @@ section img {
 
 // Optional dark backdrop for logo galleries on the Design page.
 .logo-grid-dark img {
-  background: darken($body-background, 65%);
+  background: darken($body-background, 15%);
 }
 
 .logo-grid img.wide {
