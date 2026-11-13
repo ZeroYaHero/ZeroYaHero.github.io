@@ -1,13 +1,12 @@
 ---
 layout: default
+social_links_in_content: true
 description: >-
   ZeroYaHero's software, tech art, and design portfolio.
 seo:
   type: Person
   name: ZeroYaHero
 ---
-
-{% include nav.html %}
 
 # **Home**
 
@@ -32,6 +31,8 @@ seo:
 <!-- My name is Ellis Fitzgerald. I am a recent Computer Science graduate who has spent majority of my professional career doing business under the name ZeroYaHero. It started with my YouTube channel and publishing games independently, which then evolved into freelance and contract work in Unreal Engine and Verse as a technical artist. 
 
 This website displays my personal, academic, and professional projects and achievements.  -->
+
+{% include social-links.html %}
 
 # **About Me**
 

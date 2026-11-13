@@ -7,8 +7,6 @@ description: >-
   client marks and personal projects.
 ---
 
-{% include nav.html %}
-
 # **Design**
 
 UI, logos, and branding.

@@ -6,8 +6,6 @@ description: >-
   Games, tools, and technically demanding projects built by ZeroYaHero.
 ---
 
-{% include nav.html %}
-
 # **Software**
 
 tools, games, and other technically demanding software.

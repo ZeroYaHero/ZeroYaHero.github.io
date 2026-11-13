@@ -6,8 +6,6 @@ description: >-
   Shaders, VFX, procedural assets, and renders by ZeroYaHero.
 ---
 
-{% include nav.html %}
-
 # **Tech Art**
 
 Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural texture node editors (Substance Designer, Material Maker, etc)

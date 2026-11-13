@@ -98,9 +98,11 @@ ul li::marker {
 // Rules of my own.
 
 .site-nav {
-  margin-bottom: 2em;
-  padding-bottom: 0.6em;
-  border-bottom: 1px dashed rgba($body-foreground, 0.2);
+  grid-column: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin-top: 15px;
   font-weight: bold;
 }
 
@@ -109,20 +111,24 @@ section img {
   height: auto;
 }
 
-// Header buttons. The theme styles .btn already, so these rules only swap the
+// Social buttons. The theme styles .btn already, so these rules only swap the
 // background-image icon for an inline SVG and lay the row out.
 
-#header-links {
-  grid-column: 2;
-  margin-top: 15px;
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 24px 0;
 }
 
-#header-links .btn {
-  margin: 0 8px 8px 0;
-  vertical-align: top;
+.site-footer {
+  margin-top: 32px;
+  padding: 16px 0;
+  border-top: 1px dashed rgba($body-foreground, 0.2);
 }
 
-#header-links .btn:hover {
+.social-links .btn:hover {
   border-color: rgba($accent, 0.6);
 }
 
@@ -172,7 +178,7 @@ section img {
     column-gap: 12px;
   }
 
-  #header-links {
+  .site-nav {
     grid-column: 1 / -1;
   }
 

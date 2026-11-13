@@ -38,7 +38,8 @@ background_size: auto 100%
 background_position: left center
 background_repeat: no-repeat
 
-# Buttons in the site header. Order is the order shown.
+# Social/contact buttons below Home's tools and in other pages' footers.
+# Order is the order shown.
 # icon must match a {% when %} branch in _includes/icon.html
 header_links:
   - name: GitHub

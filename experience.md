@@ -7,8 +7,6 @@ description: >-
   in technical art and software development.
 ---
 
-{% include nav.html %}
-
 # **Experience**
 
 ## Education
