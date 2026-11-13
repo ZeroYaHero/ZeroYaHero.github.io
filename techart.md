@@ -37,6 +37,10 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 - Biomes use a combination of VerseNoise and a voroni diagram for temperature and humidity values.
 - Parameterized to easily change the density of land as well as the probablity of all asset types or biomes.
 
+<a class="btn" href="https://github.com/ZeroYaHero/StormBox/#storm-box">
+  <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
+</a>
+
 ---
 
 ## Thumbnail Sparkle and Outline Utility Shader

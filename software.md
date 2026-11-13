@@ -46,9 +46,9 @@ tools, games, and other technically demanding software.
 
 - VSCode extension for Verse and UEFN.
 - Parses local game archive files with CUE4Parse C# ASP.NET core backend.
-- Extracts textures of Fortnite item entity assets.
+- Extracts and exports textures of Fortnite item entity assets.
 - Utilizes Levenshtein string distance to compare parsed assets with hovered Verse tokens.
-- Extension requests icons for a given asset which the backend fetches from a cache or exports on demand.
+<!-- - Extension requests icons for a given asset which the backend fetches from a cache or exports on demand. -->
 - Leverages GitHub workflows to automatically build and deploy.
 
 <a class="btn" href="https://github.com/ZeroYaHero/VerseFNItemPreview">

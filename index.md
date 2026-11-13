@@ -37,15 +37,15 @@ This website displays my personal, academic, and professional projects and achie
 
 I am a recent Computer Science graduate from the University of Southern Maine. My career started with tutorials on YouTube under the "ZeroYaHero" name, and has since evolved into freelance, contract, and consulting work for UEFN (soon to be UE6) and Verse under the same name. 
 
-I care deeply about the problem domain, and I take initiative to learn whats necessary to create meaningful solutions. I have a mixture of artistic and technical abilities, and take pride in pushing both to their extremes for high-performance tools and good-looking visuals that are easily configurable. This all and more has allowed me to achieve the following:
+I care deeply about any problem domain, and I take initiative to learn whats necessary to create meaningful solutions. I have a mixture of artistic and technical abilities, and take pride in pushing both to their extremes for high-performance tools and good-looking visuals. This and more has allowed me to achieve the following:
 - Produce digital content seen by millions.
-- Independently publish live serive multiplayer games that have been played over 250 million times by over 20 million unique users.
+- Independently publish live service multiplayer games that have been played over 250 million times by over 20 million unique users.
 - Work in and with AAA studios.
 - Collaborate with a diverse range of engineers.
 - Conduct and publish academic research on AI.
 - ... and more!
 
-If any of this interests you I invite you to take a look around and maybe reach out. Thank you for your time.
+If any of this interests you: I invite you to take a look around and maybe reach out! Thank you for your time.
 
 [zeroyaheroofficial@gmail.com](mailto:zeroyaheroofficial@gmail.com)
 
