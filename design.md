@@ -16,7 +16,7 @@ UI, logos, and branding.
 
 ## Navigation Menu
 
-<img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="500">
+<img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="800">
 
 <img src="https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
@@ -36,7 +36,7 @@ I am really happy with how this turned out, and as usual I shoot for "under prom
 
 ## Cosmetics Shop Menu
 
-<img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="500">
+<img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="800">
 
 <img src="https://skillicons.dev/icons?i=illustrator,unreal&theme=dark" alt="Tools">
 
@@ -95,7 +95,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ## Clock Menu & HUD
 
-<img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu" width="500">
+<img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu" width="800">
 
 <img src="https://skillicons.dev/icons?i=unreal,illustrator&theme=light" alt="Tools">
 

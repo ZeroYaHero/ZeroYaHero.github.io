@@ -15,7 +15,7 @@ tools, games, and other technically demanding software.
 
 ## Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
 
-<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="600">
+<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="800">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,cs,python,unity&theme=dark)
 
@@ -39,7 +39,7 @@ tools, games, and other technically demanding software.
 
 ## VerseFNItemPreview
 
-<img src="{{ '/assets/projects/versepreview/VerseFNItemPreviewGIF.gif' | relative_url }}" alt="versefnitempreview" width="600">
+<img src="{{ '/assets/projects/versepreview/VerseFNItemPreviewGIF.gif' | relative_url }}" alt="versefnitempreview" width="800">
 
 ![extension](https://skillicons.dev/icons?i=vscode,typescript,cs,dotnet,unreal&theme=dark)
 
@@ -60,7 +60,7 @@ tools, games, and other technically demanding software.
 
 ## UEFNClassGenerator
 
-<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="600">
+<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="800">
 
 ![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -84,7 +84,7 @@ detail here. -->
 
 ## ZeRayTracer
 
-<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="600">
+<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="800">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark)
 
@@ -103,7 +103,7 @@ detail here. -->
 
 <img src="{{ '/assets/projects/zetris/ZETRIS_LOGO.png' | relative_url }}" alt="Zetris logo" width="300">
 
-<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="600">
+<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="800">
 
 ![c](https://skillicons.dev/icons?i=c,cmake,visualstudio,clion&theme=dark)
 
@@ -173,7 +173,7 @@ and actors. -->
 ## Reload Realistics
 {: #reloadrealistics }
 
-<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="600">
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="800">
 
 ![tools](https://skillicons.dev/icons?i=unreal&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -196,7 +196,7 @@ and actors. -->
 ## Storm Box
 {: #stormbox }
 
-<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="600">
+<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="800">
 
 ![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -218,7 +218,7 @@ and actors. -->
 
 <img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="Wordholelogo" width="300">
 
-<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="wordhole logo" width="600">
+<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="wordhole logo" width="800">
 
 ![tools](https://skillicons.dev/icons?i=unity,cs&theme=dark)
 
@@ -234,7 +234,7 @@ and actors. -->
 
 <img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="400">
 
-<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="600">
+<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="800">
 
 ![GodotBlender](https://skillicons.dev/icons?i=godot&theme=dark)
 

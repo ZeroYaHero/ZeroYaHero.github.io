@@ -15,7 +15,7 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 
 ## Niagara FX Cosmetics Content & Framework
 
-<img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="500">
+<img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="800">
 
 <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Tools">
 
@@ -140,7 +140,7 @@ much trial and error, I got something pretty close.
 
 ## Promotional Shaders
 
-<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="600">
+<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="800">
 
 ![UnrealIllustrator](https://skillicons.dev/icons?i=unreal,illustrator&theme=dark)
 
