@@ -34,7 +34,7 @@ May 2023 -- Present
 
 May 2026 -- August 2026
 
-- Placed through Innovate for Maine's competitive fellowship which included a week long in-person bootcamp before internship start date.
+- Selected through Innovate for Maine's competitive fellowship which included a week long in-person bootcamp before internship start date.
 - Reverse-engineered an FFT-based ocean rendering package, made ocean-engineer-advised modifications, and implemented its wave model as a new simulation mode inside an existing C++ simulation framework.
 - Tested with Catch2 and profiled with Google Benchmark.
 - Helped improve their rendering of simulation data inside Unity, optimizing with HLSL (standard surface and compute), GPU instancing, and Burst jobs.
