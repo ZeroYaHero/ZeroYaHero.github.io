@@ -13,7 +13,7 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 
 ---
 
-## Niagara FX Cosmetics Content & Framework
+## Contract Project: Niagara FX Cosmetics Content & Framework
 
 <img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="800">
 
@@ -42,7 +42,7 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 
 ---
 
-## Thumbnail Sparkle and Outline Utility Shader
+## Contract Project: Thumbnail Sparkle and Outline Utility Shader
 
 <img src="{{ '/assets/content/thumbnail/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="500">
 
@@ -60,7 +60,7 @@ parameters. -->
 
 ---
 
-## HP Customizer
+## Contract Project: HP Customizer
 
 <p><a href="https://x.com/ZeroYaHero/status/1915778658246983900">
 <img src="{{ '/assets/projects/hpcustomizer/hp_customizer.gif' | relative_url }}" alt="HP Customizer" width="450">
@@ -156,7 +156,7 @@ vector art in Adobe Illustrator. -->
 
 ---
 
-## "Dead by Daylight" Inspired QTE/Skill Check
+## Contract Project: "Dead by Daylight" Inspired QTE/Skill Check
 {: #qte }
 
 <img src="{{ '/assets/projects/qte/qte_demo.gif' | relative_url }}" alt="qte" width="450">

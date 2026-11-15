@@ -13,7 +13,7 @@ tools, games, and other technically demanding software.
 
 ---
 
-## Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
+## Internship Project: Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
 
 <img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="800">
 
@@ -58,7 +58,7 @@ tools, games, and other technically demanding software.
 
 ---
 
-## UEFNClassGenerator
+## Contract Project: UEFNClassGenerator
 
 <img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="800">
 
@@ -146,7 +146,7 @@ program depends completely on `mod`. This made performance a challenge. -->
 
 ---
 
-## VerseVolumes
+## Contract Project: VerseVolumes
 
 <img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="450">
 

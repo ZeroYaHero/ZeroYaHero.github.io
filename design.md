@@ -14,7 +14,7 @@ UI, logos, and branding.
 
 ---
 
-## Navigation Menu
+## Contract Project: Navigation Menu
 
 <img src="{{ '/assets/design/navmenu/navmenu.gif' | relative_url }}" alt="NavMenu" width="800">
 
@@ -34,7 +34,7 @@ I am really happy with how this turned out, and as usual I shoot for "under prom
 
 --- 
 
-## Cosmetics Shop Menu
+## Contract Project: Cosmetics Shop Menu
 
 <img src="{{ '/assets/design/shop/shop.gif' | relative_url }}" alt="Cosmetics Shop" width="800">
 
@@ -59,7 +59,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ---
 
-## A & M Home Services
+## Contract Project: A & M Home Services
 
 <div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/amhome/MainLogoW.png' | relative_url }}" alt="A & M Home Services main logo">
@@ -79,7 +79,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ---
 
-## Zero Station Framing
+## Contract Project: Zero Station Framing
 
 <div class="logo-grid logo-grid-dark">
   <img src="{{ '/assets/design/zsframe/ZSOrangeFinal.png' | relative_url }}" alt="ZS main logo color and text">
@@ -93,7 +93,7 @@ Utilizes a hand written code abstraction I call `widget_group` which makes it ea
 
 ---
 
-## Clock Menu & HUD
+## Contract Project: Clock Menu & HUD
 
 <img src="{{ '/assets/design/clock/clock.gif' | relative_url }}" alt="Clock Menu" width="800">
 
@@ -214,7 +214,7 @@ have distinct and clean branding, so I made two different logos that mirrored a 
 
 ---
 
-## "Dead by Daylight" Inspired QTE/Skill Check Texture Art
+## Contract Project: "Dead by Daylight" Inspired QTE/Skill Check Texture Art
 
 <img src="{{ '/assets/design/qte/T_QTEAssets.png' | relative_url }}" width="600" alt="qte art">
 
