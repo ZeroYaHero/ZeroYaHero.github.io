@@ -17,6 +17,7 @@ description: >-
 
 ## ZeroYaHero Contracting
 ### Programmer & Technical Artist
+
 May 2023 -- Present
 
 - Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
@@ -31,12 +32,11 @@ May 2023 -- Present
 ### Software Engineer Intern
 {: #kelson }
 
-*(via Innovate for Maine Fellowship)*
-
-Portland, Maine
+In-Person
 
 May 2026 -- August 2026
 
+- Placed through Innovate for Maine's competitive fellowship which included a week long in-person bootcamp before internship start date.
 - Reverse-engineered an FFT-based ocean rendering package, made ocean-engineer-advised modifications, and implemented its wave model as a new simulation mode inside an existing C++ simulation framework.
 - Tested with Catch2 and profiled with Google Benchmark.
 - Helped improve their rendering of simulation data inside Unity, optimizing with HLSL (standard surface and compute), GPU instancing, and Burst jobs.
@@ -46,7 +46,7 @@ May 2026 -- August 2026
 
 ## AIIR Lab
 ### Student Researcher
-Portland, Maine
+In-Person
 
 Feburary 2026 -- May 2026
 
@@ -59,9 +59,10 @@ Feburary 2026 -- May 2026
 
 ## Activision Central Tech
 ### Functional QA Tester
-Portland, Maine
+In-Person
 
 June 2022 -- August 2022 
+
 *Project Based Position*
 
 - Collaborated with programmers working on the Call of Duty engine and editor.
