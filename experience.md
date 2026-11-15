@@ -29,10 +29,8 @@ May 2023 -- Present
 ---
 
 ## Kelson Marine Co.
-### Software Engineer Intern
+### Software Engineer Intern | In-Person
 {: #kelson }
-
-In-Person
 
 May 2026 -- August 2026
 
@@ -45,8 +43,7 @@ May 2026 -- August 2026
 ---
 
 ## AIIR Lab
-### Student Researcher
-In-Person
+### Student Researcher | In-Person
 
 Feburary 2026 -- May 2026
 
@@ -58,8 +55,7 @@ Feburary 2026 -- May 2026
 ---
 
 ## Activision Central Tech
-### Functional QA Tester
-In-Person
+### Functional QA Tester | In-Person
 
 June 2022 -- August 2022 
 
@@ -76,6 +72,7 @@ June 2022 -- August 2022
 
 ## Fortnite Creative
 ### Gameplay Programmer
+
 March 2019 -- June 2022
 
 - Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
@@ -96,6 +93,7 @@ March 2019 -- June 2022
 
 ## YouTube
 ### Content Creator
+
 March 2019 -- April 2020
 
 - Gained **15 thousand** subscribers and **2 million** views over the course of a year.
