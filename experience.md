@@ -15,7 +15,8 @@ description: >-
 
 ---
 
-## UEFN Programmer & Technical Artist Contractor
+## ZeroYaHero Contracting
+### Programmer & Technical Artist
 May 2023 -- Present
 
 - Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
@@ -26,7 +27,8 @@ May 2023 -- Present
 
 ---
 
-## Software Engineer Intern (VR Visualization) @ Kelson Marine Co.
+## Kelson Marine Co.
+### Software Engineer Intern
 {: #kelson }
 
 *(via Innovate for Maine Fellowship)*
@@ -42,7 +44,8 @@ May 2026 -- August 2026
 
 ---
 
-## Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
+## AIIR Lab
+### Student Researcher
 Portland, Maine
 
 Feburary 2026 -- May 2026
@@ -54,10 +57,12 @@ Feburary 2026 -- May 2026
 
 ---
 
-## Functional QA Tester @ Activision Central Tech (Temporary)
+## Activision Central Tech
+### Functional QA Tester
 Portland, Maine
 
-June 2022 -- August 2022
+June 2022 -- August 2022 
+*Project Based Position*
 
 - Collaborated with programmers working on the Call of Duty engine and editor.
 - Tested and documented engine hot reload feature strengths and weaknesses for tools programmers.
@@ -68,7 +73,8 @@ June 2022 -- August 2022
 
 ---
 
-## Independent Developer
+## Fortnite Creative
+### Gameplay Programmer
 March 2019 -- June 2022
 
 - Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
@@ -87,7 +93,8 @@ March 2019 -- June 2022
 
 ---
 
-## YouTube Creator
+## YouTube
+### Content Creator
 March 2019 -- April 2020
 
 - Gained **15 thousand** subscribers and **2 million** views over the course of a year.
