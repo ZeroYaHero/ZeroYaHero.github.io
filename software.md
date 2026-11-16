@@ -1,12 +1,11 @@
 ---
 layout: default
+center_project_media: false
 title: Software
 permalink: /software/
 description: >-
   Games, tools, and technically demanding projects built by ZeroYaHero.
 ---
-
-{% include nav.html %}
 
 # **Software**
 
@@ -14,9 +13,9 @@ tools, games, and other technically demanding software.
 
 ---
 
-## Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
+## Internship Project: Waves @ [Kelson Marine Co.]({{ '/experience/#kelson' | relative_url }})
 
-<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="600">
+<img src="{{ '/assets/projects/kelson/KelsonWaveGifs.gif' | relative_url }}" alt="kelsonwavesgif" width="800">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,cs,python,unity&theme=dark)
 
@@ -40,7 +39,7 @@ tools, games, and other technically demanding software.
 
 ## VerseFNItemPreview
 
-<img src="{{ '/assets/projects/versepreview/VerseFNItemPreviewGIF.gif' | relative_url }}" alt="versefnitempreview" width="600">
+<img src="{{ '/assets/projects/versepreview/VerseFNItemPreviewGIF.gif' | relative_url }}" alt="versefnitempreview" width="800">
 
 ![extension](https://skillicons.dev/icons?i=vscode,typescript,cs,dotnet,unreal&theme=dark)
 
@@ -63,7 +62,7 @@ tools, games, and other technically demanding software.
 
 ## ZeRayTracer
 
-<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="600">
+<img src="https://github.com/ZeroYaHero/ZeRayTracer/blob/main/renders/chapter_14.png?raw=true" alt="ZeRayTracer render" width="800">
 
 ![cpp](https://skillicons.dev/icons?i=cpp,cmake,visualstudio&theme=dark)
 
@@ -78,35 +77,11 @@ tools, games, and other technically demanding software.
 
 ---
 
-## UEFNClassGenerator
-
-<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="600">
-
-![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
-<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
-
-<!-- GUI that generates Verse code and UEFN devices (UE actor properties) from a set of
-configurations. The tool combines the configurations with a cartesian product. Was a quick project that didn't need to look pretty. I created this tool for
-contract work and I used it there. The source is available, so I do not go into more
-detail here. -->
-
-- Deterministic tool that generates Verse code and UEFN devices (UE actor properties) from a set of configurations via cartesian product.
-- Replaces a manual workflow with an automated one that consumes ~75% less time. 
-- Created to complete work for client.
-- GUI put together in Godot due to UI toolkit (controls) being similar to Unreal's Slate widget containers.
-  - The components are default styled. The look of this tool was not nearly as important as the core functionality.
-
-<a class="btn" href="https://github.com/ZeroYaHero/UEFNClassGenerator/#uefn-class-generator">
-  <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
-</a>
-
----
-
 ## Zetris
 
 <img src="{{ '/assets/projects/zetris/ZETRIS_LOGO.png' | relative_url }}" alt="Zetris logo" width="300">
 
-<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="600">
+<img src="{{ '/assets/projects/zetris/ZETRIS_GAME.png' | relative_url }}" alt="Zetris gameplay" width="800">
 
 ![c](https://skillicons.dev/icons?i=c,cmake,visualstudio,clion&theme=dark)
 
@@ -126,6 +101,28 @@ I intend to add others in the future. -->
 </a>
 
 <!-- [View the repository](https://github.com/ZeroYaHero/Zetris) -->
+
+--- 
+
+## Contract Project: UEFNClassGenerator
+
+<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="800">
+
+![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+
+<!-- GUI that generates Verse code and UEFN devices (UE actor properties) from a set of
+configurations. The tool combines the configurations with a cartesian product. Was a quick project that didn't need to look pretty. I created this tool for
+contract work and I used it there. The source is available, so I do not go into more
+detail here. -->
+
+- Deterministic tool that generates Verse code and UEFN devices (UE actor properties) from a set of configurations via cartesian product.
+- Created to complete work for client.
+- GUI put together in Godot due to UI toolkit (controls) being similar to Unreal's Slate widget containers.
+
+<a class="btn" href="https://github.com/ZeroYaHero/UEFNClassGenerator/#uefn-class-generator">
+  <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
+</a>
 
 ---
 
@@ -149,7 +146,7 @@ program depends completely on `mod`. This made performance a challenge. -->
 
 ---
 
-## VerseVolumes
+## Contract Project: VerseVolumes
 
 <img src="{{ '/assets/projects/versevolumes/T_Volume.png' | relative_url }}" alt="VerseVolumes" width="450">
 
@@ -176,7 +173,7 @@ and actors. -->
 ## Reload Realistics
 {: #reloadrealistics }
 
-<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="600">
+<img src="{{ '/assets/design/reloadrealistics/RR_SkyRenderLogoPS.png' | relative_url }}" alt="reload realistics render" width="800">
 
 ![tools](https://skillicons.dev/icons?i=unreal&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -199,7 +196,7 @@ and actors. -->
 ## Storm Box
 {: #stormbox }
 
-<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="600">
+<img src="{{ '/assets/projects/stormbox/T_StormBoxRender.png' | relative_url }}" alt="Storm Box render" width="800">
 
 ![Tools Used](https://skillicons.dev/icons?i=unreal,blender,python,photoshop,illustrator&theme=dark)
 <img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
@@ -221,7 +218,7 @@ and actors. -->
 
 <img src="{{ '/assets/design/wordhole/word_hole_pixel_black_hole.png' | relative_url }}" alt="Wordholelogo" width="300">
 
-<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="wordhole logo" width="600">
+<img src="{{ '/assets/projects/wordhole/wordholegif.gif' | relative_url }}" alt="wordhole logo" width="800">
 
 ![tools](https://skillicons.dev/icons?i=unity,cs&theme=dark)
 
@@ -237,7 +234,7 @@ and actors. -->
 
 <img src="{{ '/assets/projects/bugbyte/T_BugByteLogo.png' | relative_url }}" alt="BugByte logo" width="400">
 
-<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="600">
+<img src="{{ '/assets/projects/bugbyte/bbdemo.png' | relative_url }}" alt="BugByte screenshot" width="800">
 
 ![GodotBlender](https://skillicons.dev/icons?i=godot&theme=dark)
 

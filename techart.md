@@ -1,12 +1,11 @@
 ---
 layout: default
+center_project_media: false
 title: Tech Art
 permalink: /techart/
 description: >-
   Shaders, VFX, procedural assets, and renders by ZeroYaHero.
 ---
-
-{% include nav.html %}
 
 # **Tech Art**
 
@@ -14,9 +13,9 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 
 ---
 
-## Niagara FX Cosmetics Content & Framework
+## Contract Project: Niagara FX Cosmetics Content & Framework
 
-<img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="500">
+<img src="{{ '/assets/content/cosmetics/cosmetics.gif' | relative_url }}" alt="Cosmetics" width="800">
 
 <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Tools">
 
@@ -43,7 +42,7 @@ Shaders, assets, art tools, and renders. Made in Unreal, Blender, or procedural 
 
 ---
 
-## Thumbnail Sparkle and Outline Utility Shader
+## Contract Project: Thumbnail Sparkle and Outline Utility Shader
 
 <img src="{{ '/assets/content/thumbnail/T_ThumbnailUtility.png' | relative_url }}" alt="Thumbnail utility shader" width="500">
 
@@ -61,7 +60,7 @@ parameters. -->
 
 ---
 
-## HP Customizer
+## Contract Project: HP Customizer
 
 <p><a href="https://x.com/ZeroYaHero/status/1915778658246983900">
 <img src="{{ '/assets/projects/hpcustomizer/hp_customizer.gif' | relative_url }}" alt="HP Customizer" width="450">
@@ -141,7 +140,7 @@ much trial and error, I got something pretty close.
 
 ## Promotional Shaders
 
-<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="600">
+<img src="{{ '/assets/content/promo/promo_pic.png' | relative_url }}" alt="Promotional shaders" width="800">
 
 ![UnrealIllustrator](https://skillicons.dev/icons?i=unreal,illustrator&theme=dark)
 
@@ -157,7 +156,7 @@ vector art in Adobe Illustrator. -->
 
 ---
 
-## "Dead by Daylight" Inspired QTE/Skill Check
+## Contract Project: "Dead by Daylight" Inspired QTE/Skill Check
 {: #qte }
 
 <img src="{{ '/assets/projects/qte/qte_demo.gif' | relative_url }}" alt="qte" width="450">

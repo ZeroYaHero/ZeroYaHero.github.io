@@ -7,8 +7,6 @@ description: >-
   in technical art and software development.
 ---
 
-{% include nav.html %}
-
 # **Experience**
 
 ## Education
@@ -29,8 +27,10 @@ Ella Hawkins, Kristina Zbinden, **Ellis Fitzgerald**, and Behrooz Mansouri<br>
 
 ---
 
-## UEFN Programmer & Technical Artist Contractor
-March 2023 -- Present
+## ZeroYaHero Contracting
+### Programmer & Technical Artist
+
+May 2023 -- Present
 
 - Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
 - Programming responsive user interface's or intricate gameplay systems with Verse and SceneGraph.
@@ -40,15 +40,13 @@ March 2023 -- Present
 
 ---
 
-## Software Engineer Intern (VR Visualization) @ Kelson Marine Co.
+## Kelson Marine Co.
+### Software Engineer Intern | In-Person
 {: #kelson }
-
-*(via Innovate for Maine Fellowship)*
-
-Portland, Maine
 
 May 2026 -- August 2026
 
+- Selected through Innovate for Maine's competitive fellowship which included a week long in-person bootcamp before internship start date.
 - Reverse-engineered an FFT-based ocean rendering package, made ocean-engineer-advised modifications, and implemented its wave model as a new simulation mode inside an existing C++ simulation framework.
 - Tested with Catch2 and profiled with Google Benchmark.
 - Helped improve their rendering of simulation data inside Unity, optimizing with HLSL (standard surface and compute), GPU instancing, and Burst jobs.
@@ -56,8 +54,8 @@ May 2026 -- August 2026
 
 ---
 
-## Student Researcher @ Artificial Intelligence and Information Retrieval (AIIR) Lab
-Portland, Maine
+## AIIR Lab
+### Student Researcher | In-Person
 
 Feburary 2026 -- May 2026
 
@@ -68,10 +66,12 @@ Feburary 2026 -- May 2026
 
 ---
 
-## Functional QA Tester @ Activision Central Tech (Temporary)
-Portland, Maine
+## Activision Central Tech
+### Functional QA Tester | In-Person
 
-June 2022 -- August 2022
+June 2022 -- August 2022 
+
+*Project Based Position*
 
 - Collaborated with programmers working on the Call of Duty engine and editor.
 - Tested and documented engine hot reload feature strengths and weaknesses for tools programmers.
@@ -82,7 +82,9 @@ June 2022 -- August 2022
 
 ---
 
-## Independent Developer
+## Fortnite Creative
+### Gameplay Programmer
+
 March 2019 -- June 2022
 
 - Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
@@ -101,7 +103,9 @@ March 2019 -- June 2022
 
 ---
 
-## YouTube Creator
+## YouTube
+### Content Creator
+
 March 2019 -- April 2020
 
 - Peaked at **16 thousand** subscribers and **2 million** views over the course of a year.
