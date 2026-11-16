@@ -57,28 +57,6 @@ tools, games, and other technically demanding software.
 
 <!-- VSCode extension for Verse language and the Unreal Editor for Fortnite (UEFN). It provides icon/thumbnail preview on hover of reflected Fortnite item entities in your code or digest files. I made this for my own usecase where I was getting frustrated on the inconsistent naming convention of the items in code and their actor counterparts in the content drawer. This preview allows you to better understand what items you are granting to players ahead of time instead of needing to do a reverse lookup or starting session! -->
 
----
-
-## UEFNClassGenerator
-
-<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="600">
-
-![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
-<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
-
-<!-- GUI that generates Verse code and UEFN devices (UE actor properties) from a set of
-configurations. The tool combines the configurations with a cartesian product. Was a quick project that didn't need to look pretty. I created this tool for
-contract work and I used it there. The source is available, so I do not go into more
-detail here. -->
-
-- Deterministic tool that generates Verse code and UEFN devices (UE actor properties) from a set of configurations via cartesian product.
-- Created to complete work for client.
-- GUI put together in Godot due to UI toolkit (controls) being similar to Unreal's Slate widget containers.
-
-<a class="btn" href="https://github.com/ZeroYaHero/UEFNClassGenerator/#uefn-class-generator">
-  <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
-</a>
-
 <!-- [View the repository](https://github.com/ZeroYaHero/UEFNClassGenerator/#uefn-class-generator) -->
 
 ---
@@ -95,6 +73,30 @@ detail here. -->
 <!-- CPU ray tracer programmed in C++ with CMake. Contains different material types, camera effects, and multithreading. -->
 
 <a class="btn" href="https://github.com/ZeroYaHero/ZeRayTracer/#zeray-tracer">
+  <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
+</a>
+
+---
+
+## UEFNClassGenerator
+
+<img src="{{ '/assets/projects/classgen/classgen_demo.gif' | relative_url }}" alt="demo" width="600">
+
+![UnrealGodot](https://skillicons.dev/icons?i=unreal,godot&theme=dark)
+<img src="{{ '/assets/icons/verse.jpeg' | relative_url }}" alt="Verse" width="48">
+
+<!-- GUI that generates Verse code and UEFN devices (UE actor properties) from a set of
+configurations. The tool combines the configurations with a cartesian product. Was a quick project that didn't need to look pretty. I created this tool for
+contract work and I used it there. The source is available, so I do not go into more
+detail here. -->
+
+- Deterministic tool that generates Verse code and UEFN devices (UE actor properties) from a set of configurations via cartesian product.
+- Replaces a manual workflow with an automated one that consumes ~75% less time. 
+- Created to complete work for client.
+- GUI put together in Godot due to UI toolkit (controls) being similar to Unreal's Slate widget containers.
+  - The components are default styled. The look of this tool was not nearly as important as the core functionality.
+
+<a class="btn" href="https://github.com/ZeroYaHero/UEFNClassGenerator/#uefn-class-generator">
   <span class="icon">{% include icon.html name="github" %}</span>GitHub Repository
 </a>
 

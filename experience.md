@@ -17,8 +17,20 @@ description: >-
 
 ---
 
+## Publications
+
+Nicholas Largey, **Ellis Fitzgerald**, and Behrooz Mansouri<br>
+**[AIIRLab at COLIEE 2026: Fusion of Instruction-Tuned LLMs and Cross-Encoders for Legal Case Entailment](https://www.researchgate.net/publication/404872839_AIIRLab_at_COLIEE_2026_Fusion_of_Instruction-Tuned_LLMs_and_Cross-Encoders_for_Legal_Case_Entailment)**<br>
+*COLIEE 2026 Workshop*
+
+Ella Hawkins, Kristina Zbinden, **Ellis Fitzgerald**, and Behrooz Mansouri<br>
+**[AIIRLab Systems at SimpleText CLEF 2026: Ensemble and Multi-Agent Pipelines for Scientific Text Simplification](https://ceur-ws.org/Vol-4283/paper457.pdf)**<br>
+*CLEF 2026 Working Notes*
+
+---
+
 ## UEFN Programmer & Technical Artist Contractor
-May 2023 -- Present
+March 2023 -- Present
 
 - Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
 - Programming responsive user interface's or intricate gameplay systems with Verse and SceneGraph.
@@ -50,9 +62,9 @@ Portland, Maine
 Feburary 2026 -- May 2026
 
 - Researched and implemented information retrieval and NLP methods in legal and scientific domains.
-- COLIEE-26: built a pipeline that decides whether one Canadian legal case entails another without access to ground truth. Lab placed second in one task. Co-authored the paper.
-- SimpleText: classified scientific papers against a taxonomy by prompting a small open-weight LLM, then embedding each answer and walking down the taxonomy tree by similarity. Co-authored the paper.
-- Self-directed effort to host a local llama.cpp inference server, consolidating scattered per-user model downloads behind one endpoint and offloading to system RAM to fit larger model.
+- COLIEE-26: Built a pipeline that decides whether one Canadian legal case entails another without access to ground truth using a biencoder and crossencoder.
+- SimpleText: Worked on initial implementation of classifying scientific papers against a given taxonomy. Prompted a small open-weight LLM, then embedded each answer and traversed taxonomy tree by similarity and repeating until desired answer.
+- Initiated effort to host a local llama.cpp inference server, consolidating scattered per-user model downloads behind one endpoint and offloading to system RAM to fit larger models.
 
 ---
 
@@ -74,6 +86,7 @@ June 2022 -- August 2022
 March 2019 -- June 2022
 
 - Shipping inside Fortnite's UGC ecosystem while growing my YouTube presence.
+- Pioneered Zone Wars gamemode in Fortnite.
 - **250 million plays from 20 million unique player accounts**
 - Highlights:
     - **Vortex Zone Wars**
@@ -85,14 +98,14 @@ March 2019 -- June 2022
         - A compact gamemode made to simulate the most intense moments of a Fortnite Battle Royale match with a tournament-style scoring system.
         - **Featured by Epic Games as a Matchmaking Portal**.
         - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated).
-- **One of the few founders of Zone Wars genre**
 
 ---
 
 ## YouTube Creator
 March 2019 -- April 2020
 
-- Gained **15 thousand** subscribers and **2 million** views over the course of a year.
+- Peaked at **16 thousand** subscribers and **2 million** views over the course of a year.
+- Videos average 54K views. 
 - Primarily educational/tutorial based Fortnite UGC content, but also did showcase of own creations.
 
 ---
