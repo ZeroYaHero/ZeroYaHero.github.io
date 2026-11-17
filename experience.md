@@ -33,7 +33,7 @@ Ella Hawkins, Kristina Zbinden, **Ellis Fitzgerald**, and Behrooz Mansouri<br>
 May 2023 -- Present
 
 - Contract work in Fortnite's UGC ecosystem for a handful of the Top 15 creators.
-- Programming responsive user interface's or intricate gameplay systems with Verse and SceneGraph.
+- Programming responsive user interfaces or intricate gameplay systems with Verse and SceneGraph.
 - Leveraging Unreal Engine tools such as Material Graph, Motion Graphics, Niagara, and more.
 - Automating tedious tasks with Python scripts and other self-programmed external tools.
 - Creating assets with Blender, Adobe, MaterialMaker, etc.
@@ -57,7 +57,7 @@ May 2026 -- August 2026
 ## AIIR Lab
 ### Student Researcher | In-Person
 
-Feburary 2026 -- May 2026
+Februrary 2026 -- May 2026
 
 - Researched and implemented information retrieval and NLP methods in legal and scientific domains.
 - COLIEE-26: Built a pipeline that decides whether one Canadian legal case entails another without access to ground truth using a biencoder and crossencoder.
@@ -99,7 +99,7 @@ March 2019 -- June 2022
     - **2X Zone Wars**
         - A compact gamemode made to simulate the most intense moments of a Fortnite Battle Royale match with a tournament-style scoring system.
         - **Featured by Epic Games as a Matchmaking Portal**.
-        - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but apprecieated).
+        - **Featured by Epic Games for Creator Showcase 2X** (pun unintended but appreciated).
 
 ---
 

@@ -23,7 +23,7 @@ seo:
 
 I'm a recent Computer Science graduate from the University of Southern Maine whose career started with tutorials on YouTube under the "ZeroYaHero" name, and has since evolved into freelance, contract, and consulting work for UEFN and Verse.
 
-I care deeply about the problem domain, and take initiative to learn whats necessary to create meaningful solutions. I have a mixture of artistic and technical abilities, and I take pride in pushing both to their extremes for high-performance tools and good-looking visuals. Those same abilites have allowed me to achieve the following:
+I care deeply about the problem domain, and take initiative to learn what is necessary for meaningful solutions. I have a mixture of artistic and technical abilities, and I take pride in pushing both to their extremes for high-performance tools and good-looking visuals. Those same abilities have allowed me to achieve the following:
 - Independently publish live service multiplayer games that have been played over 250 million times by over 20 million unique users.
 - Work in and with AAA studios.
 - Produce digital content seen by millions.
